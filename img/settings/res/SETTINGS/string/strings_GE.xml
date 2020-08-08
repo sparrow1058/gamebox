@@ -1,0 +1,136 @@
+<?xml version="1.0"?> 
+<strings_resources>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="0" name="Einstellung"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="1" name="Spracheinstellung"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="2" name="Spielanzeige"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="3" name="Themenstil"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="4" name="Timeout"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="5" name="Verbindungsmodus"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="6" name="Spielverlauf löschen"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="7" name="Standard wiederherstellen"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="8" name="Tastentest"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="0" name="Spracheinstellung"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="1" name="简体中文"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="2" name="繁體中文"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="3" name="Engelish"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="4" name="日本語"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="5" name="한글"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="6" name="русский язык"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="7" name="Orang indonesia"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="8" name="dansk"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="9" name="Le français"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="10" name="Deutsch"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="0" name="Spielanzeigemodus"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="1" name="Vollbildmodus"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="2" name="Gleicher Skalenmodus"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="3" name="Erfolg"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="4" name="Fehler"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="0" name="Theme-Stil"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="1" name="Thema 1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="2" name="Thema 2"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="3" name="Thema 3"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="0" name="Gamepad"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="1" name="Verwenden Sie den Hauptgriff"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="2" name="Deaktivieren Sie das native Handle"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="0" name="Timeout"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="1" name="Ungefähr drei Minuten lang keine Operation"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="2" name="Timeout-Einstellung abbrechen"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="0" name="Hintergrundbeleuchtung"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="1" name="Stufe 1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="2" name="Stufe 2"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="3" name="Stufe 3"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="4" name="Stufe 4"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="0" name="Spielverlauf löschen"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="1" name="Ja"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="2" name="Non"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="3" name="Erfolg"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="4" name="Fehler"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="0" name="Êtes-vous sûr de récupérer?"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="1" name="Déterminer"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="2" name="Abbrechen"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="3" name="Erfolg"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="4" name="Fehler"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="0" name="Systeminformationen"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="1" name="Modell:MX312"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="2" name="Firmware-Version:V1.1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="0" name="Spiel"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="1" name="Film"/>
+	<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="2" name="Musik"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="3" name="Thema"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="4" name="Spielverlauf"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="5" name="Ordner"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="6" name="Bildschirmhelligkeit"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="7" name="Einstellung"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <WaitInfostring id="0" name="Laden....."/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <StartInfostring id="0" name="Format wird nicht unterstützt！"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="0" name="Verbindungsmodus"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="1" name="Anschließen an einen Computer"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="2" name="Verbindungshandle"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+</strings_resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="3"></icon_para>	
+  <icon_page1>
+    <icon0_para id="0" name="1.超人" game_path="超人.zip"></icon0_para>	
+    <icon1_para id="1" name="2.怪物世界2" game_path="怪物世界2.zip"></icon1_para>
+    <icon2_para id="1" name="2.滑雪者" game_path="滑雪者.zip"></icon2_para>
+  </icon_page1>   
+</strings_resources>

@@ -1,0 +1,605 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="2500"></icon_para>
+  <icon_para game_file="5"></icon_para>	 
+ <icon_page1>
+    <icon0_para id="FBA" name="拳皇97中文版" game_path="kof97cn.zip"></icon0_para>
+    <icon1_para id="FBA" name="拳皇97风云再起" game_path="kof97pls.zip"></icon1_para>
+	<icon2_para id="NEOGEO" name="拳皇2001" game_path="kof2001.zip"></icon2_para>
+    <icon3_para id="FBA" name="拳皇94" game_path="kof94.zip"></icon3_para>
+    <icon4_para id="FBA" name="拳皇95" game_path="kof95.zip"></icon4_para>
+    <icon5_para id="FBA" name="拳皇96" game_path="kof96.zip"></icon5_para>
+    <icon6_para id="FBA" name="拳皇97" game_path="kof97.zip"></icon6_para>
+    <icon7_para id="FBA" name="拳皇97变态版" game_path="kof97xt.zip"></icon7_para>
+	<icon8_para id="FBA" name="拳皇98" game_path="kof98.zip"></icon8_para>
+	<icon9_para id="FBA" name="拳皇99" game_path="kof99.zip"></icon9_para>
+   </icon_page1> 
+    <icon_page2>
+    <icon0_para id="NEOGEO" name="燃烧力量" game_path="burningf.zip"></icon0_para>
+    <icon1_para id="NEOGEO" name="盾牌大战" game_path="flipshot.zip"></icon1_para>
+    <icon2_para id="NEOGEO" name="拳皇2000" game_path="kof2000.zip"></icon2_para>
+	<icon3_para id="MD" name="三国演义火烧赤壁" game_path="三国演义 火烧赤壁.zip"></icon3_para>
+    <icon4_para id="NEOGEO" name="拳皇2002" game_path="kof2002.zip"></icon4_para>
+    <icon5_para id="NEOGEO" name="拳皇2003" game_path="kof2003.zip"></icon5_para>
+    <icon6_para id="SFC" name="超级虚拟棒球1000" game_path="311 超级虚拟棒球1000.smc"></icon6_para>
+    <icon7_para id="NEOGEO" name="合金弹头5" game_path="mslug5.zip"></icon7_para>
+	<icon8_para id="NEOGEO" name="饿狼传说" game_path="rbff1.zip"></icon8_para>
+	<icon9_para id="NEOGEO" name="饿狼传说2" game_path="rbff2.zip"></icon9_para>
+   </icon_page2>  
+ <icon_page3>
+	<icon0_para id="FBA" name="三国志" game_path="wofh.zip"></icon0_para>
+    <icon1_para id="FBA" name="三国赤壁火凤凰" game_path="wofhfh.zip"></icon1_para>
+    <icon2_para id="FBA" name="三国志2真无双风云再起" game_path="wofj.zip"></icon2_para>
+    <icon3_para id="FBA" name="三国志2三美无双" game_path="wofjh.zip"></icon3_para>
+	<icon4_para id="FBA" name="三国战纪合集" game_path="kovshp.zip"></icon4_para>
+    <icon5_para id="FBA" name="三国志之赤壁风云" game_path="wof.zip"></icon5_para>
+    <icon6_para id="FBA" name="三剑圣2" game_path="wof3jsa.zip"></icon6_para>
+    <icon7_para id="FBA" name="三剑圣" game_path="wof3sj.zip"></icon7_para>
+	<icon8_para id="FBA" name="三国志" game_path="wofa.zip"></icon8_para>
+	<icon9_para id="FBA" name="三国志II替换版" game_path="wofch.zip"></icon9_para>
+   </icon_page3> 
+ <icon_page4>
+    <icon0_para id="SFC" name="潜舰攻击" game_path="298 潜舰攻击.smc"></icon0_para>
+    <icon1_para id="CPS" name="少年街霸1" game_path="sfa.zip"></icon1_para>
+    <icon2_para id="CPS" name="少年街霸2" game_path="sfa2.zip"></icon2_para>
+    <icon3_para id="CPS" name="少年街霸3" game_path="sfa3.zip"></icon3_para>
+    <icon4_para id="CPS" name="超级口袋战士" game_path="sgemf.zip"></icon4_para>
+    <icon5_para id="CPS" name="摔角霸王" game_path="slammast.zip"></icon5_para>
+    <icon6_para id="CPS" name="超级方块战士二代 " game_path="spf2t.zip"></icon6_para>
+    <icon7_para id="SFC" name="死亡之舞" game_path="297 死亡之舞.smc"></icon7_para>
+	<icon8_para id="CPS" name="出击飞龙" game_path="strider.zip"></icon8_para>
+	<icon9_para id="CPS" name="战区88联合国空战队" game_path="unsquad.zip"></icon9_para>
+   </icon_page4>
+   <icon_page5>
+    <icon0_para id="FBA" name="三国战纪" game_path="kov.zip"></icon0_para>
+    <icon1_para id="FBA" name="三国战记2群雄争霸金手指" game_path="kov2p.zip"></icon1_para>
+    <icon2_para id="FBA" name="神奇星球" game_path="wndrplnt.zip"></icon2_para>
+    <icon3_para id="FBA" name="超级飞碟" game_path="wjammers.zip"></icon3_para>
+    <icon4_para id="FBA" name="奇迹三世界" game_path="wonder3.zip"></icon4_para>
+    <icon5_para id="FBA" name="划线描框" game_path="wondstck.zip"></icon5_para>
+    <icon6_para id="FBA" name="天蚕变新幻想曲" game_path="wownfant.zip"></icon6_para>
+    <icon7_para id="FBA" name="空战MEIOU计划" game_path="wrofaero.zip"></icon7_para>
+	<icon8_para id="FBA" name="重量级拳击" game_path="wschamp.zip"></icon8_para>
+	<icon9_para id="FBA" name="X战警磁场原子人" game_path="xmcota.zip"></icon9_para>
+	</icon_page5> 
+  <icon_page6>
+    <icon0_para id="CPS" name="奇迹3合1" game_path="3wonders.zip"></icon0_para>	
+    <icon1_para id="CPS" name="19xx" game_path="19xx.zip"></icon1_para>
+    <icon2_para id="CPS" name="1942" game_path="1942.zip"></icon2_para>
+    <icon3_para id="CPS" name="1944" game_path="1944.zip"></icon3_para>	
+    <icon4_para id="CPS" name="装甲战士" game_path="armwar.zip"></icon4_para>
+    <icon5_para id="CPS" name="异型对铁血战士" game_path="avsp.zip"></icon5_para>
+    <icon6_para id="CPS" name="战斗回路" game_path="batcir.zip"></icon6_para>
+    <icon7_para id="CPS" name="西游记" game_path="orlegend.zip"></icon7_para>
+	<icon8_para id="SFC" name="超级地球防卫军" game_path="271 超级地球防卫军.smc"></icon8_para>
+	<icon9_para id="CPS" name="卡普空世界2" game_path="cworld2j.zip"></icon9_para>
+  </icon_page6>
+  <icon_page7>
+    <icon0_para id="CPS" name="机甲战士-全金属狂潮" game_path="cybotsj.zip"></icon0_para>
+    <icon1_para id="CPS" name="龙与地下城" game_path="ddsom.zip"></icon1_para>
+    <icon2_para id="CPS" name="龙与地下城毁灭之塔" game_path="ddtod.zip"></icon2_para>
+    <icon3_para id="CPS" name="大魔法" game_path="dimahoo.zip"></icon3_para>
+    <icon4_para id="CPS" name="恐龙快打" game_path="dino.zip"></icon4_para>
+    <icon5_para id="CPS" name="恶魔战士" game_path="dstlk.zip"></icon5_para>
+    <icon6_para id="CPS" name="吞食天地" game_path="dynwar.zip"></icon6_para>
+    <icon7_para id="CPS" name="ECO战士" game_path="ecofghtr.zip"></icon7_para>
+	<icon8_para id="CPS" name="快打旋风" game_path="ffight.zip"></icon8_para>
+	<icon9_para id="SFC" name="爆燃战机" game_path="299 爆燃战机.smc"></icon9_para>
+  </icon_page7>
+  <icon_page8>
+    <icon0_para id="CPS" name="大魔界村" game_path="ghouls.zip"></icon0_para>
+    <icon1_para id="CPS" name="行空飞翼日版" game_path="gigawingj.zip"></icon1_para>
+    <icon2_para id="CPS" name="圆桌骑士" game_path="knights.zip"></icon2_para>
+    <icon3_para id="CPS" name="摔角霸王" game_path="mbombrd.zip"></icon3_para>
+    <icon4_para id="CPS" name="洛克人力量对决" game_path="megaman.zip"></icon4_para>
+    <icon5_para id="CPS" name="战场之狼" game_path="mercs.zip"></icon5_para>
+    <icon6_para id="CPS" name="火星矩阵" game_path="mmatrix.zip"></icon6_para>
+    <icon7_para id="CPS" name="超强魔鬼气泡" game_path="mpang.zip"></icon7_para>
+	<icon8_para id="CPS" name="超级漫画英雄" game_path="msh.zip"></icon8_para>
+	<icon9_para id="CPS" name="超人大战街头霸王" game_path="mshvsf.zip"></icon9_para>
+   </icon_page8>
+  <icon_page9>
+    <icon0_para id="CPS" name="魔法之剑" game_path="msword.zip"></icon0_para>
+    <icon1_para id="CPS" name="魔法男孩双麟儿" game_path="mtwins.zip"></icon1_para>
+    <icon2_para id="CPS" name="梦境冒险" game_path="nemo.zip"></icon2_para>
+    <icon3_para id="CPS" name="吸血鬼猎人恶魔的复仇" game_path="nwarr.zip"></icon3_para>
+    <icon4_para id="CPS" name="呯嘭客车" game_path="pang.zip"></icon4_para>
+    <icon5_para id="CPS" name="魔法方块" game_path="pnickj.zip"></icon5_para>
+    <icon6_para id="CPS" name="能源之岚" game_path="progear.zip"></icon6_para>
+    <icon7_para id="CPS" name="惩罚者" game_path="punisher.zip"></icon7_para>
+	<icon8_para id="CPS" name="天空毁灭者" game_path="ringdest.zip"></icon8_para>
+	<icon9_para id="CPS" name="街头霸王12人版" game_path="sf2ce.zip"></icon9_para>
+   </icon_page9>
+  <icon_page10>
+    <icon0_para id="CPS" name="威虎战机" game_path="varth.zip"></icon0_para>
+    <icon1_para id="CPS" name="恶魔战士恶魔救世主" game_path="vsavu.zip"></icon1_para>
+    <icon2_para id="CPS" name="威洛之旅" game_path="willow.zip"></icon2_para>
+    <icon3_para id="CPS" name="三剑圣" game_path="wof3js.zip"></icon3_para>
+    <icon4_para id="CPS" name="三国志二代之赤壁风云" game_path="wofj.zip"></icon4_para>
+    <icon5_para id="CPS" name="XMAN对街霸" game_path="xmvsf.zip"></icon5_para>
+    <icon6_para id="FBA" name="火线摔跤" game_path="3countb.zip"></icon6_para>
+    <icon7_para id="FBA" name="新超级男人三合一" game_path="3in1semi.zip"></icon7_para>
+	<icon8_para id="SFC" name="黑暗王国" game_path="278 黑暗王国.smc"></icon8_para>
+	<icon9_para id="FBA" name="谜题游戏4合1" game_path="4in1boot.zip"></icon9_para>
+   </icon_page10>
+  <icon_page11>
+    <icon0_para id="FBA" name="1945" game_path="1945kiii.zip"></icon0_para>
+    <icon1_para id="SFC" name="青蛙过街" game_path="252 青蛙过街.smc"></icon1_para>
+    <icon2_para id="FBA" name="音速战机" game_path="aerofgt.zip"></icon2_para>
+    <icon3_para id="FBA" name="石破天惊" game_path="agallet.zip"></icon3_para>
+    <icon4_para id="FBA" name="空袭" game_path="airattck.zip"></icon4_para>
+    <icon5_para id="FBA" name="空袭2" game_path="airattcka.zip"></icon5_para>
+    <icon6_para id="FBA" name="阿尔法任务二代" game_path="alpham2.zip"></icon6_para>
+    <icon7_para id="FBA" name="兽王记" game_path="altbeast.zip"></icon7_para>
+	<icon8_para id="FBA" name="圣战士阿玛迪斯" game_path="amazon.zip"></icon8_para>
+	<icon9_para id="FBA" name="勇者之击" game_path="androdun.zip"></icon9_para>
+   </icon_page11>
+  <icon_page12>
+    <icon0_para id="FBA" name="痛快进行曲" game_path="aodk.zip"></icon0_para>
+    <icon1_para id="FBA" name="龙虎之拳 " game_path="aof.zip"></icon1_para>
+    <icon2_para id="FBA" name="龙虎之拳2" game_path="aof2.zip"></icon2_para>
+    <icon3_para id="FBA" name="龙虎之拳3" game_path="aof3.zip"></icon3_para>
+    <icon4_para id="FBA" name="劲弩战机" game_path="arbalest.zip"></icon4_para>
+    <icon5_para id="FBA" name="战区88" game_path="area88.zip"></icon5_para>
+    <icon6_para id="SFC" name="超火爆摔角超值版" game_path="268 超火爆摔角超值版.smc"></icon6_para>
+    <icon7_para id="FBA" name="武装编队" game_path="armedf.zip"></icon7_para>
+	<icon8_para id="FBA" name="装甲战士" game_path="armwar.zip"></icon8_para>
+	<icon9_para id="FBA" name="阿修罗" game_path="ashura.zip"></icon9_para>
+   </icon_page12>
+  <icon_page13>
+    <icon0_para id="FBA" name="异型对铁血战士" game_path="avsp.zip"></icon0_para>
+    <icon1_para id="FBA" name="碰碰球大战" game_path="bangbead.zip"></icon1_para>
+    <icon2_para id="FBA" name="战斗回路" game_path="batcir.zip"></icon2_para>
+    <icon3_para id="FBA" name="蓝色之旅" game_path="bjourney.zip"></icon3_para>
+    <icon4_para id="FBA" name="闪亮之星" game_path="blazstar.zip"></icon4_para>
+    <icon5_para id="FBA" name="究极PC原人" game_path="bonkadv.zip"></icon5_para>
+    <icon6_para id="FBA" name="爆裂人" game_path="breakers.zip"></icon6_para>
+    <icon7_para id="FBA" name="兽王记" game_path="altbeast.zip"></icon7_para>
+	<icon8_para id="FBA" name="爆烈人复仇" game_path="breakrev.zip"></icon8_para>
+	<icon9_para id="FBA" name="热血快打" game_path="burningf.zip"></icon9_para>
+   </icon_page13>
+  <icon_page14>
+    <icon0_para id="SFC" name="时空特警" game_path="296 时空特警.smc"></icon0_para>
+    <icon1_para id="SFC" name="超级国际棒球赛" game_path="270 超级国际棒球赛.smc"></icon1_para>
+    <icon2_para id="FBA" name="番茄超人" game_path="ctomaday.zip"></icon2_para>
+    <icon3_para id="FBA" name="街头格斗" game_path="ctribe.zip"></icon3_para>
+    <icon4_para id="FBA" name="卡普空世界2" game_path="cworld2j.zip"></icon4_para>
+    <icon5_para id="FBA" name="战斗边缘" game_path="cyberlip.zip"></icon5_para>
+    <icon6_para id="FBA" name="双截龙" game_path="doubledr.zip"></icon6_para>
+    <icon7_para id="FBA" name="怒首领蜂" game_path="ddonpach.zip"></icon7_para>
+	<icon8_para id="FBA" name="双截龙三代" game_path="ddragon3.zip"></icon8_para>
+	<icon9_para id="FBA" name="钻地先生" game_path="diggerma.zip"></icon9_para>
+   </icon_page14>
+  <icon_page15>
+    <icon0_para id="FBA" name="吞食天地一代" game_path="dynwarj.zip"></icon0_para>
+    <icon1_para id="FBA" name="八号超人" game_path="eightman.zip"></icon1_para>
+    <icon2_para id="FBA" name="长空超少年" game_path="esprade.zip"></icon2_para>
+    <icon3_para id="FBA" name="机械警察" game_path="eswatbl.zip"></icon3_para>
+    <icon4_para id="FBA" name="饿狼传说特别版" game_path="fatfursp.zip"></icon4_para>
+    <icon5_para id="FBA" name="饿狼传说1" game_path="fatfury1.zip"></icon5_para>
+    <icon6_para id="SFC" name="金属战队" game_path="274 金属战队.smc"></icon6_para>
+    <icon7_para id="FBA" name="饿狼传说3" game_path="fatfury3.zip"></icon7_para>
+	<icon8_para id="FBA" name="弹铳" game_path="feversos.zip"></icon8_para>
+	<icon9_para id="FBA" name="地球的最后选择" game_path="gaia.zip"></icon9_para>
+   </icon_page15>
+  <icon_page16>
+    <icon0_para id="FBA" name="大蜜蜂" game_path="galaga.zip"></icon0_para>
+    <icon1_para id="FBA" name="银河快打宇宙战士" game_path="galaxyfg.zip"></icon1_para>
+    <icon2_para id="FBA" name="武藏严流记" game_path="ganryu.zip"></icon2_para>
+    <icon3_para id="SFC" name="芭比假日冒险" game_path="267 芭比假日冒险.smc"></icon3_para>
+    <icon4_para id="FBA" name="绿色兵团" game_path="gberet.zip"></icon4_para>
+    <icon5_para id="SFC" name="特警先锋猫" game_path="266 特警先锋猫.smc"></icon5_para>
+    <icon6_para id="FBA" name="鬼精灵投手" game_path="ghostlop.zip"></icon6_para>
+    <icon7_para id="FBA" name="大魔界村" game_path="ghouls.zip"></icon7_para>
+	<icon8_para id="SFC" name="外星悍将" game_path="251 外星悍将.sfc"></icon8_para>
+	<icon9_para id="FBA" name="射门" game_path="goalx3.zip"></icon9_para>
+   </icon_page16>
+  <icon_page17>
+    <icon0_para id="FBA" name="战斧一代" game_path="goldnaxe.zip"></icon0_para>
+    <icon1_para id="FBA" name="魔鬼飞行员" game_path="gpilots.zip"></icon1_para>
+    <icon2_para id="FBA" name="电精二代" game_path="grdians.zip"></icon2_para>
+    <icon3_para id="FBA" name="森林卫士" game_path="growl.zip"></icon3_para>
+    <icon4_para id="FBA" name="1000英里大师赛车2" game_path="gtmr2.zip"></icon4_para>
+    <icon5_para id="FBA" name="狱门山物语" game_path="guwange.zip"></icon5_para>
+    <icon6_para id="FBA" name="JoyJoy" game_path="joyjoy.zip"></icon6_para>
+    <icon7_para id="FBA" name="天外魔境真传东方伊甸园" game_path="kabukikl.zip"></icon7_para>
+	<icon8_para id="FBA" name="斗神光辉" game_path="karatblz.zip"></icon8_para>
+	<icon9_para id="FBA" name="卡洛夫的复仇" game_path="karnovr.zip"></icon9_para>
+   </icon_page17>
+  <icon_page18>
+    <icon0_para id="FBA" name="怪兽之王" game_path="kotm.zip"></icon0_para>
+    <icon1_para id="FBA" name="怪兽之王2" game_path="kotm2.zip"></icon1_para>
+    <icon2_para id="FBA" name="野蛮骑士" game_path="wildfang.zip"></icon2_para>
+    <icon3_para id="SFC" name="幸运转轮" game_path="292 幸运转轮.smc"></icon3_para>
+    <icon4_para id="FBA" name="暗黑城堡二代" game_path="wizdfire.zip"></icon4_para>
+    <icon5_para id="FBA" name="月华的剑士" game_path="lastblad.zip"></icon5_para>
+    <icon6_para id="FBA" name="月华的剑士二代" game_path="lastbld2.zip"></icon6_para>
+    <icon7_para id="FBA" name="终极手段" game_path="lresort.zip"></icon7_para>
+	<icon8_para id="FBA" name="魔法汽泡2" game_path="magdrop2.zip"></icon8_para>
+	<icon9_para id="FBA" name="魔法汽泡3" game_path="magdrop3.zip"></icon9_para>
+   </icon_page18>
+  <icon_page19>
+    <icon0_para id="FBA" name="新豪血寺一族-斗婚" game_path="matrim.zip"></icon0_para>
+    <icon1_para id="FBA" name="摔角霸王" game_path="mbombrd.zip"></icon1_para>
+    <icon2_para id="FBA" name="洛克人二代" game_path="megaman2.zip"></icon2_para>
+    <icon3_para id="FBA" name="天蚕变96" game_path="missw96.zip"></icon3_para>
+    <icon4_para id="FBA" name="合金弹头" game_path="mslug.zip"></icon4_para>
+    <icon5_para id="FBA" name="合金弹头2" game_path="mslug2.zip"></icon5_para>
+    <icon6_para id="FBA" name="合金弹头3" game_path="mslug3.zip"></icon6_para>
+    <icon7_para id="FBA" name="终合金弹头X-超级战车" game_path="mslugx.zip"></icon7_para>
+	<icon8_para id="FBA" name="魔法之剑" game_path="msword.zip"></icon8_para>
+	<icon9_para id="FBA" name="外星游龙变异种族" game_path="mutnat.zip"></icon9_para>
+  </icon_page19>
+  <icon_page20>
+    <icon0_para id="FBA" name="越战1975" game_path="nam1975.zip"></icon0_para>
+    <icon1_para id="FBA" name="忍者大战" game_path="ncombat.zip"></icon1_para>
+    <icon2_para id="FBA" name="忍者战士" game_path="ncommand.zip"></icon2_para>
+    <icon3_para id="FBA" name="炸弹人" game_path="neobombe.zip"></icon3_para>
+    <icon4_para id="FBA" name="拉力赛车" game_path="neodrift.zip"></icon4_para>
+    <icon5_para id="FBA" name="忍者布娃娃迷你版" game_path="ninjak.zip"></icon5_para>
+    <icon6_para id="FBA" name="霸王忍法帖" game_path="ninjamas.zip"></icon6_para>
+    <icon7_para id="FBA" name="午夜噩梦" game_path="nitd.zip"></icon7_para>
+	<icon8_para id="FBA" name="吸血鬼猎人恶魔的复仇" game_path="nwarr.zip"></icon8_para>
+	<icon9_para id="FBA" name="西游释厄传" game_path="orlegend.zip"></icon9_para>
+  </icon_page20>
+  <icon_page21>
+    <icon0_para id="SFC" name="特库摩超级美式足球3" game_path="265 特库摩超级美式足球3.smc"></icon0_para>
+    <icon1_para id="FBA" name="超级赛车" game_path="outrun.zip"></icon1_para>
+    <icon2_para id="FBA" name="极速赛车" game_path="overtop.zip"></icon2_para>
+    <icon3_para id="FBA" name="炸弹人方块" game_path="panicbom.zip"></icon3_para>
+    <icon4_para id="FBA" name="泡泡龙二代" game_path="pbobbl2n.zip"></icon4_para>
+    <icon5_para id="FBA" name="泡泡龙" game_path="pbobble.zip"></icon5_para>
+    <icon6_para id="FBA" name="益智泡泡龙" game_path="pbobblen.zip"></icon6_para>
+    <icon7_para id="FBA" name="谜题俱乐部" game_path="pclubys.zip"></icon7_para>
+	<icon8_para id="FBA" name="神偷拍档" game_path="penbros.zip"></icon8_para>
+	<icon9_para id="FBA" name="快乐五人足球" game_path="pgoal.zip"></icon9_para>
+   </icon_page21>
+  <icon_page22>
+    <icon0_para id="FBA" name="大家来找碴" game_path="photoy2k.zip"></icon0_para>
+    <icon1_para id="FBA" name="大家来找碴04" game_path="photoy2k104.zip"></icon1_para>
+    <icon2_para id="FBA" name="皮皮与比比" game_path="pipibibs.zip"></icon2_para>
+    <icon3_para id="FBA" name="海盗" game_path="pirates.zip"></icon3_para>
+    <icon4_para id="FBA" name="美女花式桌球" game_path="pktgaldx.zip"></icon4_para>
+    <icon5_para id="FBA" name="滚球大战" game_path="pkunwar.zip"></icon5_para>
+    <icon6_para id="SFC" name="拿姆科棒球5" game_path="295 拿姆科棒球 5.smc"></icon6_para>
+    <icon7_para id="FBA" name="豪血寺外传2" game_path="plegends.zip"></icon7_para>
+	<icon8_para id="SFC" name="魔星迷踪" game_path="277 魔星迷踪.smc"></icon8_para>
+	<icon9_para id="FBA" name="宠物方块" game_path="pnyaa.zip"></icon9_para>
+   </icon_page22>
+  <icon_page23>
+    <icon0_para id="FBA" name="猪小弟" game_path="pooyan.zip"></icon0_para>
+    <icon1_para id="FBA" name="动物方块" game_path="popbounc.zip"></icon1_para>
+    <icon2_para id="FBA" name="脱狱" game_path="pow.zip"></icon2_para>
+    <icon3_para id="FBA" name="豪血寺一族1" game_path="powerins.zip"></icon3_para>
+    <icon4_para id="FBA" name="原始岛" game_path="prehisle.zip"></icon4_para>
+    <icon5_para id="FBA" name="原始岛2" game_path="preisle2.zip"></icon5_para>
+    <icon6_para id="FBA" name="美女杀手" game_path="prtytime.zip"></icon6_para>
+    <icon7_para id="FBA" name="超级排球2" game_path="pspikes2.zip"></icon7_para>
+	<icon8_para id="FBA" name="阿猫阿狗" game_path="pulirula.zip"></icon8_para>
+	<icon9_para id="FBA" name="死亡之星" game_path="pulstar.zip"></icon9_para>
+   </icon_page23>
+  <icon_page24>
+    <icon0_para id="FBA" name="惩罚者" game_path="punisher.zip"></icon0_para>
+    <icon1_para id="FBA" name="推人大作战" game_path="pushman.zip"></icon1_para>
+    <icon2_para id="FBA" name="PUZZLED方块" game_path="puzzledp.zip"></icon2_para>
+    <icon3_para id="FBA" name="豪血寺一族2" game_path="pwrinst2.zip"></icon3_para>
+    <icon4_para id="FBA" name="智力保龄球" game_path="pzlbowl.zip"></icon4_para>
+    <icon5_para id="FBA" name="智力循环二代" game_path="pzloop2.zip"></icon5_para>
+    <icon6_para id="FBA" name="暴乱都市2" game_path="riotcity.zip"></icon6_para>
+    <icon7_para id="FBA" name="机甲神兵" game_path="roboarmy.zip"></icon7_para>
+	<icon8_para id="FBA" name="龙吼" game_path="rotd.zip"></icon8_para>
+	<icon9_para id="FBA" name="美少女战士" game_path="sailormn.zip"></icon9_para>
+   </icon_page24>
+  <icon_page25>
+    <icon0_para id="FBA" name="侍魂" game_path="samsho.zip"></icon0_para>
+    <icon1_para id="FBA" name="侍魂2" game_path="samsho2.zip"></icon1_para>
+    <icon2_para id="FBA" name="侍魂3" game_path="samsho3.zip"></icon2_para>
+    <icon3_para id="FBA" name="侍魂4" game_path="samsho4.zip"></icon3_para>
+    <icon4_para id="FBA" name="风云默示录" game_path="savagere.zip"></icon4_para>
+    <icon5_para id="FBA" name="火腿斗士" game_path="sdfight.zip"></icon5_para>
+    <icon6_para id="FBA" name="战国传承" game_path="sengoku.zip"></icon6_para>
+    <icon7_para id="FBA" name="战国传承2" game_path="sengoku2.zip"></icon7_para>
+	<icon8_para id="FBA" name="战国传承3" game_path="sengoku3.zip"></icon8_para>
+	<icon9_para id="SFC" name="快打刑事-乱" game_path="294 快打刑事-乱.smc"></icon9_para>
+   </icon_page25>
+  <icon_page26>
+    <icon0_para id="FBA" name="变身忍者" game_path="shadfrce.zip"></icon0_para>
+    <icon1_para id="FBA" name="忍者龙剑传世界二版" game_path="shadoww.zip"></icon1_para>
+    <icon2_para id="SFC" name="幻想弹珠台" game_path="293 幻想弹珠台.smc"></icon2_para>
+    <icon3_para id="FBA" name="突击骑兵2" game_path="shocktr2.zip"></icon3_para>
+    <icon4_para id="FBA" name="突击骑兵" game_path="shocktro.zip"></icon4_para>
+    <icon5_para id="FBA" name="摔角霸王" game_path="slammast.zip"></icon5_para>
+    <icon6_para id="FBA" name="雪人兄弟2" game_path="snowbro2.zip"></icon6_para>
+    <icon7_para id="FBA" name="雪人兄弟3" game_path="snowbro3.zip"></icon7_para>
+	<icon8_para id="FBA" name="雪人兄弟" game_path="snowbros.zip"></icon8_para>
+	<icon9_para id="FBA" name="音速战机2" game_path="sonicwi2.zip"></icon9_para>
+   </icon_page26>
+  <icon_page27>
+    <icon0_para id="FBA" name="音速战机3" game_path="sonicwi3.zip"></icon0_para>
+    <icon1_para id="FBA" name="时空英雄" game_path="spinlbrk.zip"></icon1_para>
+    <icon2_para id="FBA" name="强尼大冒险" game_path="spinmast.zip"></icon2_para>
+    <icon3_para id="FBA" name="超级街头霸王2加强版" game_path="ssf2.zip"></icon3_para>
+    <icon4_para id="FBA" name="得点王" game_path="ssideki.zip"></icon4_para>
+    <icon5_para id="FBA" name="雷牙" game_path="stratof.zip"></icon5_para>
+    <icon6_para id="SFC" name="鬼屋历险" game_path="276 鬼屋历险.smc"></icon6_para>
+    <icon7_para id="FBA" name="超级间谍" game_path="superspy.zip"></icon7_para>
+	<icon8_para id="FBA" name="顶尖猎人" game_path="tophuntr.zip"></icon8_para>
+	<icon9_para id="FBA" name="极速英豪" game_path="trally.zip"></icon9_para>
+   </icon_page27>
+  <icon_page28>
+    <icon0_para id="FBA" name="达人王" game_path="truxton.zip"></icon0_para>
+    <icon1_para id="FBA" name="达人王2" game_path="truxton2.zip"></icon1_para>
+    <icon2_para id="FBA" name="力量战车" game_path="turbofrc.zip"></icon2_para>
+    <icon3_para id="FBA" name="大旋风" game_path="twinhawk.zip"></icon3_para>
+    <icon4_para id="FBA" name="梦幻小妖精" game_path="twinspri.zip"></icon4_para>
+    <icon5_para id="FBA" name="世界杯足球96" game_path="tws96.zip"></icon5_para>
+    <icon6_para id="SFC" name="雷恩与史地皮-疯狂家庭" game_path="275 雷恩与史地皮-疯狂家庭.smc"></icon6_para>
+    <icon7_para id="FBA" name="宇宙巡航机2野心" game_path="vulcan.zip"></icon7_para>
+	<icon8_para id="FBA" name="得分王" game_path="viewpoin.zip"></icon8_para>
+	<icon9_para id="FBA" name="决战异星球" game_path="vulgus.zip"></icon9_para>
+   </icon_page28>
+  <icon_page29>
+    <icon0_para id="FBA" name="热火热火7" game_path="wakuwak7.zip"></icon0_para>
+    <icon1_para id="SFC" name="沙漠风暴-1" game_path="264 沙漠风暴-1.smc"></icon1_para>
+    <icon2_para id="FBA" name="水球大战" game_path="watrball.zip"></icon2_para>
+    <icon3_para id="FBA" name="冒险岛3" game_path="wb3.zip"></icon3_para>
+    <icon4_para id="FBA" name="神奇男孩" game_path="wboy.zip"></icon4_para>
+    <icon5_para id="FBA" name="世界英雄" game_path="wh1.zip"></icon5_para>
+    <icon6_para id="FBA" name="世界英雄2" game_path="wh2.zip"></icon6_para>
+    <icon7_para id="FBA" name="世界英雄2代特别版" game_path="wh2j.zip"></icon7_para>
+	<icon8_para id="FBA" name="世界英雄完美版" game_path="whp.zip"></icon8_para>
+	<icon9_para id="FBA" name="摇摆鲸鱼" game_path="wiggie.zip"></icon9_para>
+   </icon_page29>
+  <icon_page30>
+    <icon0_para id="FBA" name="X战警日版" game_path="xmcotaj.zip"></icon0_para>
+    <icon1_para id="FBA" name="XMAN对街霸日版" game_path="xmvsfj.zip"></icon1_para>
+    <icon2_para id="SFC" name="宇宙战士" game_path="291 宇宙战士.smc"></icon2_para>
+    <icon3_para id="FBA" name="妖兽传" game_path="youjyudn.zip"></icon3_para>
+    <icon4_para id="FBA" name="刀锋战机" game_path="zedblade.zip"></icon4_para>
+    <icon5_para id="SFC" name="战斗躲避球" game_path="263 战斗躲避球.smc"></icon5_para>
+    <icon6_para id="FBA" name="零翼战机" game_path="zerowing.zip"></icon6_para>
+    <icon7_para id="FBA" name="零点地带美女方块" game_path="zerozone.zip"></icon7_para>
+	<icon8_para id="FBA" name="真真急炮" game_path="zingzip.zip"></icon8_para>
+	<icon9_para id="FBA" name="决战平推方块" game_path="zintrckb.zip"></icon9_para>
+   </icon_page30> 
+  <icon_page31>
+    <icon0_para id="MD" name="北斗神拳" game_path="北斗神拳.zip"></icon0_para>
+    <icon1_para id="MD" name="蝙蝠侠与罗宾" game_path="蝙蝠侠与罗宾.zip"></icon1_para>
+    <icon2_para id="MD" name="超级马里奥" game_path="超级马里奥.zip"></icon2_para>
+    <icon3_para id="MD" name="超级忍1" game_path="超级忍1.zip"></icon3_para>
+    <icon4_para id="MD" name="超级忍2" game_path="超级忍2.zip"></icon4_para>
+    <icon5_para id="MD" name="惩罚者" game_path="惩罚者.zip"></icon5_para>
+    <icon6_para id="SFC" name="超级中国拳" game_path="269 超级中国拳.smc"></icon6_para>
+    <icon7_para id="MD" name="出击飞龙1" game_path="出击飞龙1.zip"></icon7_para>
+	<icon8_para id="MD" name="出击飞龙2" game_path="出击飞龙2.zip"></icon8_para>
+	<icon9_para id="MD" name="大航海时代2" game_path="大航海时代2.zip"></icon9_para>
+   </icon_page31> 
+  <icon_page32>
+    <icon0_para id="MD" name="大魔界村" game_path="大魔界村.zip"></icon0_para>
+    <icon1_para id="MD" name="恶魔城血族" game_path="恶魔城 血族.zip"></icon1_para>
+    <icon2_para id="MD" name="饿狼传说2" game_path="饿狼传说2.zip"></icon2_para>
+    <icon3_para id="MD" name="风中奇缘" game_path="风中奇缘.zip"></icon3_para>
+    <icon4_para id="MD" name="封神英杰传" game_path="封神英杰传.zip"></icon4_para>
+    <icon5_para id="MD" name="钢铁帝国" game_path="钢铁帝国.zip"></icon5_para>
+    <icon6_para id="MD" name="光电领航员" game_path="光电领航员.zip"></icon6_para>
+    <icon7_para id="MD" name="光明力量1" game_path="光明力量1.zip"></icon7_para>
+	<icon8_para id="MD" name="光明力量2" game_path="光明力量2.zip"></icon8_para>
+	<icon9_para id="MD" name="光明十字军" game_path="光明十字军.zip"></icon9_para>
+   </icon_page32> 
+  <icon_page33>
+    <icon0_para id="SFC" name="辛普森家庭-超级快乐屋" game_path="273 辛普森家庭-超级快乐屋.smc"></icon0_para>
+    <icon1_para id="MD" name="光之继承者" game_path="光之继承者.zip"></icon1_para>
+    <icon2_para id="MD" name="豪血寺一族" game_path="豪血寺一族.zip"></icon2_para>
+    <icon3_para id="MD" name="皇帝的财宝" game_path="皇帝的财宝.zip"></icon3_para>
+    <icon4_para id="MD" name="毁灭骑兵" game_path="毁灭骑兵.zip"></icon4_para>
+    <icon5_para id="MD" name="魂斗罗铁血军团" game_path="魂斗罗 铁血军团.zip"></icon5_para>
+    <icon6_para id="MD" name="火箭骑士1" game_path="火箭骑士1.zip"></icon6_para>
+    <icon7_para id="MD" name="火箭骑士2" game_path="火箭骑士2.zip"></icon7_para>
+	<icon8_para id="MD" name="火枪英雄" game_path="火枪英雄.zip"></icon8_para>
+	<icon9_para id="MD" name="机械战警3" game_path="机械战警3.zip"></icon9_para>
+   </icon_page33> 
+  <icon_page34>
+    <icon0_para id="MD" name="机械战警对终结者" game_path="机械战警对终结者.zip"></icon0_para>
+    <icon1_para id="MD" name="鲛!鲛!鲛!" game_path="鲛!鲛!鲛!.zip"></icon1_para>
+    <icon2_para id="MD" name="街头霸王II PLUS" game_path="街头霸王II PLUS.zip"></icon2_para>
+    <icon3_para id="MD" name="街头霸王II SUPER" game_path="街头霸王II SUPER.zip"></icon3_para>
+    <icon4_para id="MD" name="街头赛车" game_path="街头赛车.zip"></icon4_para>
+    <icon5_para id="MD" name="空牙" game_path="空牙.zip"></icon5_para>
+    <icon6_para id="MD" name="空中魂斗罗" game_path="空中魂斗罗.zip"></icon6_para>
+    <icon7_para id="MD" name="恐龙兄弟2" game_path="恐龙兄弟2.zip"></icon7_para>
+	<icon8_para id="MD" name="骷髅战机" game_path="骷髅战机.zip"></icon8_para>
+	<icon9_para id="MD" name="雷电传说" game_path="雷电传说.zip"></icon9_para>
+   </icon_page34> 
+  <icon_page35>
+    <icon0_para id="MD" name="雷霆任务2" game_path="雷霆任务2.zip"></icon0_para>
+    <icon1_para id="MD" name="雷霆任务3" game_path="雷霆任务3.zip"></icon1_para>
+    <icon2_para id="MD" name="粒子斗士1" game_path="粒子战士1.zip"></icon2_para>
+    <icon3_para id="MD" name="粒子斗士2" game_path="粒子战士2.zip"></icon3_para>
+    <icon4_para id="SFC" name="宇宙战士" game_path="291 宇宙战士.smc"></icon4_para>
+    <icon5_para id="MD" name="零翼战机" game_path="零翼战机.zip"></icon5_para>
+    <icon6_para id="MD" name="洛克人世界" game_path="洛克人世界.zip"></icon6_para>
+    <icon7_para id="MD" name="麻将道场" game_path="麻将道场.bin"></icon7_para>
+	<icon8_para id="MD" name="漫画地带" game_path="漫画地带.zip"></icon8_para>
+	<icon9_para id="MD" name="梦幻模拟战1" game_path="梦幻模拟战1.zip"></icon9_para>
+   </icon_page35> 
+  <icon_page36>
+    <icon0_para id="MD" name="梦幻模拟战2" game_path="梦幻模拟战2.zip"></icon0_para>
+    <icon1_para id="MD" name="梦幻之星4" game_path="梦幻之星4.zip"></icon1_para>
+    <icon2_para id="MD" name="米老鼠的终极挑战" game_path="米老鼠 终极挑战.smd"></icon2_para>
+    <icon3_para id="MD" name="怒之铁拳1" game_path="怒之铁拳1.zip"></icon3_para>
+    <icon4_para id="MD" name="怒之铁拳2" game_path="怒之铁拳2.zip"></icon4_para>
+    <icon5_para id="MD" name="怒之铁拳3" game_path="怒之铁拳3.zip"></icon5_para>
+    <icon6_para id="MD" name="蚯蚓战士1" game_path="蚯蚓战士1.zip"></icon6_para>
+    <icon7_para id="MD" name="蚯蚓战士2" game_path="蚯蚓战士2.zip"></icon7_para>
+	<icon8_para id="MD" name="忍无可忍" game_path="忍无可忍.zip"></icon8_para>
+	<icon9_para id="MD" name="忍者龙剑传" game_path="忍者龙剑传.zip"></icon9_para>
+   </icon_page36> 
+  <icon_page37>
+    <icon0_para id="MD" name="忍者神龟4" game_path="忍者神龟4.zip"></icon0_para>
+    <icon1_para id="MD" name="忍者神龟5" game_path="忍者神龟5.zip"></icon1_para>
+    <icon2_para id="MD" name="忍者蛙" game_path="忍者蛙.zip"></icon2_para>
+    <icon3_para id="MD" name="忍者蛙和双截龙" game_path="忍者蛙和双截龙.zip"></icon3_para>
+    <icon2_para id="FBA" name="龙王战士" game_path="kod.zip"></icon2_para>
+    <icon5_para id="MD" name="森林卫士" game_path="森林卫士.zip"></icon5_para>
+    <icon6_para id="MD" name="沙丘魔堡" game_path="沙丘魔堡.zip"></icon6_para>
+    <icon7_para id="MD" name="闪电出击4" game_path="闪电出击4.zip"></icon7_para>
+	<icon8_para id="MD" name="侍魂" game_path="侍魂.zip"></icon8_para>
+	<icon9_para id="MD" name="双截龙" game_path="双截龙.bin"></icon9_para>
+   </icon_page37> 
+  <icon_page38>
+    <icon0_para id="MD" name="双截龙1" game_path="双截龙1.zip"></icon0_para>
+    <icon1_para id="MD" name="双截龙3" game_path="双截龙3.zip"></icon1_para>
+    <icon2_para id="MD" name="双截龙5" game_path="双截龙5.zip"></icon2_para>
+    <icon3_para id="MD" name="水浒传" game_path="水浒传.zip"></icon3_para>
+    <icon4_para id="MD" name="水浒风云传" game_path="水浒风云传.zip"></icon4_para>
+    <icon5_para id="MD" name="索尼克" game_path="索尼克.bin"></icon5_para>
+    <icon6_para id="MD" name="索尼克1" game_path="索尼克1.zip"></icon6_para>
+    <icon7_para id="MD" name="索尼克2" game_path="索尼克2.zip"></icon7_para>
+	<icon8_para id="MD" name="索尼克3" game_path="索尼克3.zip"></icon8_para>
+	<icon9_para id="MD" name="索尼克加強版2" game_path="索尼克加強版2.bin"></icon9_para>
+   </icon_page38> 
+  <icon_page39>
+    <icon0_para id="MD" name="太空战斗机2" game_path="太空战斗机2.zip"></icon0_para>
+    <icon1_para id="MD" name="太空战士" game_path="太空战士.zip"></icon1_para>
+    <icon2_para id="MD" name="坦克大战" game_path="坦克大战.zip"></icon2_para>
+    <icon3_para id="MD" name="唐老鸭大冒险" game_path="唐老鸭大冒险.zip"></icon3_para>
+    <icon4_para id="MD" name="特殊部队357" game_path="特殊部队357.zip"></icon4_para>
+    <icon5_para id="MD" name="吞食天地3" game_path="吞食天地3.zip"></icon5_para>
+    <icon6_para id="MD" name="外星战将" game_path="外星战将.zip"></icon6_para>
+    <icon7_para id="MD" name="午夜魂斗罗" game_path="午夜魂斗罗.zip"></icon7_para>
+	<icon8_para id="MD" name="武者雅士达" game_path="武者雅士达.zip"></icon8_para>
+	<icon9_para id="MD" name="武装刑警" game_path="武装刑警.zip"></icon9_para>
+   </icon_page39> 
+  <icon_page40>
+    <icon0_para id="MD" name="悟空外传" game_path="悟空外传.zip"></icon0_para>
+    <icon1_para id="MD" name="西部牛仔" game_path="西部牛仔.zip"></icon1_para>
+    <icon2_para id="MD" name="新创世纪" game_path="新创世纪.zip"></icon2_para>
+    <icon3_para id="MD" name="一门英烈杨家将" game_path="一门英烈杨家将.zip"></icon3_para>
+    <icon4_para id="MD" name="异形风暴" game_path="异形风暴.zip"></icon4_para>
+    <icon5_para id="MD" name="异形战士" game_path="异形战士.zip"></icon5_para>
+    <icon6_para id="MD" name="音速小子" game_path="音速小子.bin"></icon6_para>
+    <icon7_para id="MD" name="影舞者" game_path="影舞者.zip"></icon7_para>
+	<icon8_para id="MD" name="幽游白书魔强统一战" game_path="幽游白书 魔强统一战.zip"></icon8_para>
+	<icon9_para id="MD" name="幽游白书1" game_path="幽游白书1.zip"></icon9_para>
+   </icon_page40> 
+  <icon_page41>
+    <icon0_para id="MD" name="战场之狼" game_path="战场之狼.zip"></icon0_para>
+    <icon1_para id="MD" name="战斧1" game_path="战斧1.zip"></icon1_para>
+    <icon2_para id="MD" name="战斧2" game_path="战斧2.zip"></icon2_para>
+    <icon3_para id="MD" name="战斧3" game_path="战斧3.zip"></icon3_para>
+    <icon4_para id="MD" name="中国象棋" game_path="中国象棋.zip"></icon4_para>
+    <icon5_para id="MD" name="终结者2" game_path="终结者2.zip"></icon5_para>
+    <icon6_para id="NEOGEO" name="三回合较量" game_path="3countb.zip"></icon6_para>
+    <icon7_para id="NEOGEO" name="龙虎之拳" game_path="aof.zip"></icon7_para>
+	<icon8_para id="NEOGEO" name="龙虎之拳2" game_path="aof2.zip"></icon8_para>
+	<icon9_para id="NEOGEO" name="龙虎之拳3" game_path="aof3.zip"></icon9_para>
+   </icon_page41> 
+   <icon_page42>
+    <icon0_para id="SFC" name="战斗赛车" game_path="262 战斗赛车.smc"></icon0_para>
+    <icon1_para id="FBA" name="蛇神出击" game_path="zombraid.zip"></icon1_para>
+    <icon2_para id="FBA" name="星星大战" game_path="zupapa.zip"></icon2_para>
+    <icon3_para id="FBA" name="风云默示录" game_path="kizuna.zip"></icon3_para>
+    <icon4_para id="FBA" name="圆桌骑士" game_path="knights.zip"></icon4_para>
+    <icon5_para id="SFC" name="魔法堆球2" game_path="312 魔法堆球2.smc"></icon5_para>
+    <icon6_para id="SFC" name="魔法师" game_path="313 魔法师.smc"></icon6_para>
+    <icon7_para id="SFC" name="鲁邦三世" game_path="314 鲁邦三世.smc"></icon7_para>
+	<icon8_para id="MD" name="暴力克星" game_path="暴力克星.zip"></icon8_para>
+	<icon9_para id="MD" name="爆笑三国" game_path="爆笑三国.zip"></icon9_para>
+   </icon_page42> 
+  <icon_page43>
+    <icon0_para id="NEOGEO" name="真饿狼传说特别版 " game_path="rbffspec.zip"></icon0_para>
+    <icon1_para id="GG" name="決斗" game_path="007 決斗.zip"></icon1_para>
+    <icon2_para id="GG" name="F15飞鹰" game_path="F-15飛鷹.zip"></icon2_para>
+    <icon3_para id="FC" name="冒险岛4" game_path="841 冒险岛4.nes"></icon3_para>
+    <icon4_para id="GG" name="X战警1" game_path="X戰警1.zip"></icon4_para>
+    <icon5_para id="GG" name="X战警2" game_path="X戰警2.zip"></icon5_para>
+    <icon6_para id="GG" name="X战警3" game_path="X戰警3.zip"></icon6_para>
+    <icon7_para id="GG" name="阿拉丁" game_path="阿拉丁.zip"></icon7_para>
+	<icon8_para id="GG" name="蝙蝠侠1" game_path="蝙蝠侠1.zip"></icon8_para>
+	<icon9_para id="GG" name="蝙蝠侠2" game_path="蝙蝠侠2.zip"></icon9_para>
+   </icon_page43> 
+  <icon_page44>
+    <icon0_para id="GG" name="蝙蝠侠3" game_path="蝙蝠侠3.zip"></icon0_para>
+    <icon1_para id="GG" name="波斯王子" game_path="波斯王子.zip"></icon1_para>
+    <icon2_para id="GG" name="仓库番" game_path="倉庫番.zip"></icon2_para>
+    <icon3_para id="GG" name="超級忍1" game_path="超級忍1.zip"></icon3_para>
+    <icon4_para id="GG" name="超級忍2" game_path="超級忍2.zip"></icon4_para>
+    <icon5_para id="GG" name="超人" game_path="超人.zip"></icon5_para>
+    <icon6_para id="GG" name="吃豆小精灵" game_path="吃豆小精靈.zip"></icon6_para>
+    <icon7_para id="GG" name="飞龙" game_path="飛龍.zip"></icon7_para>
+	<icon8_para id="GG" name="钢铁侠" game_path="鋼鐵侠.zip"></icon8_para>
+	<icon9_para id="GG" name="怪物卡车大战" game_path="怪物喀車大戰.zip"></icon9_para>
+   </icon_page44> 
+  <icon_page45>
+    <icon0_para id="GG" name="怪物世界2" game_path="怪物世界2.zip"></icon0_para>
+    <icon1_para id="GG" name="灌籃高手" game_path="灌籃高手.zip"></icon1_para>
+    <icon2_para id="GG" name="光明力量2" game_path="光明力量2.zip"></icon2_para>
+    <icon3_para id="GG" name="光明力量3" game_path="光明力量3.zip"></icon3_para>
+    <icon4_para id="GG" name="光明力量外傳" game_path="光明力量外傳.zip"></icon4_para>
+    <icon5_para id="GG" name="海豚历险记1" game_path="海豚歴險記1.zip"></icon5_para>
+    <icon6_para id="GG" name="海豚历险记2" game_path="海豚歴險記2.zip"></icon6_para>
+    <icon7_para id="GG" name="滑雪者" game_path="滑雪者.zip"></icon7_para>
+	<icon8_para id="GG" name="环游世界" game_path="環遊世界.zip"></icon8_para>
+	<icon9_para id="GG" name="火枪英雄" game_path="火槍英雄.zip"></icon9_para>
+   </icon_page45> 
+  <icon_page46>
+    <icon0_para id="GG" name="机械战警3" game_path="机械戰警3.zip"></icon0_para>
+    <icon1_para id="GG" name="机械战警對終結者" game_path="机械戰警對終結者.zip"></icon1_para>
+    <icon2_para id="GG" name="蜡笔小新" game_path="蝋筆小新.zip"></icon2_para>
+    <icon3_para id="GG" name="浪潮武士" game_path="浪潮武士.zip"></icon3_para>
+    <icon4_para id="GG" name="猫捉老鼠" game_path="猫捉老鼠.zip"></icon4_para>
+    <icon5_para id="GG" name="美国队长与复仇者" game_path="美國隊長与復仇者.zip"></icon5_para>
+    <icon6_para id="GG" name="美人魚" game_path="美人魚.zip"></icon6_para>
+    <icon7_para id="GG" name="美少女战士" game_path="美少女戰士.zip"></icon7_para>
+	<icon8_para id="GG" name="梦幻之星冒险" game_path="夢幻之星冒險.zip"></icon8_para>
+	<icon9_para id="GG" name="梦幻之星外传" game_path="夢幻之星外傳.zip"></icon9_para>
+   </icon_page46> 
+  <icon_page47>
+    <icon0_para id="GG" name="米老鼠魔法师" game_path="米老鼠 魔法師.zip"></icon0_para>
+    <icon1_para id="GG" name="米老鼠王国传说" game_path="米老鼠 王國傳説.zip"></icon1_para>
+    <icon2_para id="GG" name="米老鼠终极挑战" game_path="米老鼠 終極挑戰.zip"></icon2_para>
+    <icon3_para id="GG" name="怒之铁拳1" game_path="怒之鐵拳1.zip"></icon3_para>
+    <icon4_para id="GG" name="怒之铁拳2" game_path="怒之鐵拳2.zip"></icon4_para>
+    <icon5_para id="GG" name="女神転生外傳1" game_path="女神転生外傳1.zip"></icon5_para>
+    <icon6_para id="GG" name="女神転生外傳2" game_path="女神転生外傳2.zip"></icon6_para>
+    <icon7_para id="GG" name="上尉密令" game_path="上尉密令.zip"></icon7_para>
+	<icon8_para id="GG" name="忍者龙剑传" game_path="忍者龍劍傳.zip"></icon8_para>
+	<icon9_para id="GG" name="忍者蛙" game_path="忍者蛙.zip"></icon9_para>
+   </icon_page47> 
+  <icon_page48>
+    <icon0_para id="GG" name="獅子王" game_path="獅子王.zip"></icon0_para>
+    <icon1_para id="GG" name="水晶戰士" game_path="水晶戰士.zip"></icon1_para>
+    <icon2_para id="GG" name="送報童" game_path="送報童.zip"></icon2_para>
+    <icon3_para id="GG" name="索尼克彈珠臺" game_path="索尼克彈珠臺.zip"></icon3_para>
+    <icon4_para id="GG" name="索尼克迷宮" game_path="索尼克迷宮.zip"></icon4_para>
+    <icon5_para id="GG" name="索尼克赛车1" game_path="索尼克賽車1.zip"></icon5_para>
+    <icon6_para id="GG" name="索尼克赛车2" game_path="索尼克賽車2.zip"></icon6_para>
+    <icon7_para id="GG" name="塔雨斯大冒险" game_path="塔爾斯大冒險.zip"></icon7_para>
+	<icon8_para id="GG" name="太空哈利" game_path="太空哈利.zip"></icon8_para>
+	<icon9_para id="GG" name="唐老鴨1" game_path="唐老鴨1.zip"></icon9_para>
+   </icon_page48> 
+  <icon_page49>
+    <icon0_para id="GG" name="唐老鴨2" game_path="唐老鴨2.zip"></icon0_para>
+    <icon1_para id="GG" name="铁头小子" game_path="鐵頭小子.zip"></icon1_para>
+    <icon2_para id="GG" name="铁血战士2" game_path="鐵血戰士2.zip"></icon2_para>
+    <icon3_para id="GG" name="外星王子" game_path="外星王子.zip"></icon3_para>
+    <icon4_para id="GG" name="网球" game_path="網球.zip"></icon4_para>
+    <icon5_para id="GG" name="舞王" game_path="舞王.zip"></icon5_para>
+    <icon6_para id="GG" name="吸血鬼復蘇" game_path="吸血鬼復蘇.zip"></icon6_para>
+    <icon7_para id="GG" name="辛普森一家" game_path="辛普森一家.zip"></icon7_para>
+	<icon8_para id="GG" name="星際旅行1" game_path="星際旅行1.zip"></icon8_para>
+	<icon9_para id="GG" name="星際旅行2" game_path="星際旅行2.zip"></icon9_para>
+   </icon_page49> 
+  <icon_page50>
+    <icon0_para id="GG" name="星球大戰1" game_path="星球大戰1.zip"></icon0_para>
+    <icon1_para id="GG" name="星球大戰2" game_path="星球大戰2.zip"></icon1_para>
+    <icon2_para id="GG" name="異形3" game_path="異形3.zip"></icon2_para>
+    <icon3_para id="GG" name="異形特攻隊" game_path="異形特攻隊.zip"></icon3_para>
+    <icon4_para id="GG" name="幽遊白書1" game_path="幽遊白書1.zip"></icon4_para>
+    <icon5_para id="GG" name="幽遊白書2" game_path="幽遊白書2.zip"></icon5_para>
+    <icon6_para id="GG" name="真寶珠小子" game_path="真寶珠小子.zip"></icon6_para>
+    <icon7_para id="GG" name="真人快打1" game_path="真人快打1.zip"></icon7_para>
+	<icon8_para id="GG" name="真人快打2" game_path="真人快打2.zip"></icon8_para>
+	<icon9_para id="GG" name="真人快打3" game_path="真人快打3.zip"></icon9_para>
+   </icon_page50> 
+</strings_resources>

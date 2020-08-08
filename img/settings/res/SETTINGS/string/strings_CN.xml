@@ -1,0 +1,136 @@
+<?xml version="1.0"?> 
+<strings_resources>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="0" name="设置"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="1" name="语言设置"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="2" name="游戏显示模式"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="3" name="主题风格"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="4" name="超时退出"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="5" name="连接模式"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="6" name="清除游戏记录"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="7" name="恢复默认设置"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="8" name="按键测试"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="0" name="语言设置"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="1" name="简体中文"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="2" name="繁體中文"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="3" name="Engelish"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="4" name="日本語"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="5" name="한글"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="6" name="русский язык"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="7" name="Orang indonesia"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="8" name="dansk"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="9" name="Le français"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="10" name="Deutsch"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="0" name="游戏显示模式"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="1" name="全屏模式"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="2" name="等比例模式"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="3" name="成功"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="4" name="失败"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="0" name="主题风格"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="1" name="主题1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="2" name="主题2"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="3" name="主题3"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="0" name="游戏手柄"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="1" name="使用本机手柄"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="2" name="禁用本机手柄"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="0" name="超时退出"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="1" name="约三分钟无操作退出启动的游戏"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="2" name="取消超时设置"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="0" name="背光设置"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="1" name="等级1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="2" name="等级2"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="3" name="等级3"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="4" name="等级4"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="0" name="清除游戏记录"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="1" name="是"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="2" name="否"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="3" name="成功"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="4" name="失败"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="0" name="确定要恢复吗?"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="1" name="确定"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="2" name="取消"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="3" name="成功"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="4" name="失败"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="0" name="系统信息"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="1" name="型号:MX312"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="2" name="固件版本:V1.1.190803"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="0" name="历史"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="1" name="游戏"/>
+	<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="2" name="视频"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="3" name="文件"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="4" name="设置"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="5" name="POWKIDDY"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="6" name="模拟器"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="7" name="设置"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <WaitInfostring id="0" name="正在加载....."/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <StartInfostring id="0" name="格式不支持！"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="0" name="连接模式"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="1" name="连接电脑"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="2" name="连接手柄"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+</strings_resources>

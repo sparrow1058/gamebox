@@ -1,0 +1,7 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="1"></icon_para>	
+  <icon_page1>
+    <icon0_para id="0" name="1.PS1-铁拳" game_path="5004601.img"></icon0_para>
+  </icon_page1>
+</strings_resources>

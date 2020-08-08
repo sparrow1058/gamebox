@@ -1,0 +1,9 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="3"></icon_para>	
+  <icon_page1>
+    <icon0_para id="0" name="1.真人快打" game_path="001 真人快打.smc"></icon0_para>
+    <icon1_para id="1" name="2.快打旋风" game_path="019 快打旋风 2.smc"></icon1_para>
+    <icon2_para id="2" name="3.电精" game_path="028 电精(汉化版).sfc"></icon2_para>
+  </icon_page1>
+</strings_resources>

@@ -1,0 +1,1802 @@
+/sdcard/game/GBA/001 C 索尼克1.gba
+001 C 索尼克1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/001 U 击倒王.gba
+001 U 击倒王
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/002 C 索尼克2.gba
+002 C 索尼克2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/003 C 索尼克3.gba
+003 C 索尼克3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/004 C 索尼克大决战.gba
+004 C 索尼克大决战
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/005 U 索尼克弹珠派对.gba
+005 U 索尼克弹珠派对
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/006 C 星之卡比1.gba
+006 C 星之卡比1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/007 C 星之卡比2.gba
+007 C 星之卡比2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/008 C 牧场男孩.gba
+008 C 牧场男孩
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/009 C 牧场女孩.gba
+009 C 牧场女孩
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/010 C 萨尔达传说1.gba
+010 C 萨尔达传说1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/011 C 萨尔达传说2-缩小帽.gba
+011 C 萨尔达传说2-缩小帽
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/012 C 龙珠大冒险.gba
+012 C 龙珠大冒险
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/013 C 公主联盟.gba
+013 C 公主联盟
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/014 C 恶魔城-月轮.gba
+014 C 恶魔城-月轮
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/015 C 恶魔城-白夜.gba
+015 C 恶魔城-白夜
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/016 C 恶魔城-晓月.gba
+016 C 恶魔城-晓月
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/017 C 火焰之纹章-圣魔之光石.gba
+017 C 火焰之纹章-圣魔之光石
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/018 C 火焰之纹章-烈火之剑.gba
+018 C 火焰之纹章-烈火之剑
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/019 C 火焰之纹章-封印之剑.gba
+019 C 火焰之纹章-封印之剑
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/020 C 火焰之纹章-圣邪的意志.gba
+020 C 火焰之纹章-圣邪的意志
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/021 C 新约圣剑传说.gba
+021 C 新约圣剑传说
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/022 C 三国无双.gba
+022 C 三国无双
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/023 C 三国志.gba
+023 C 三国志
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/024 C 三国志孔明传.gba
+024 C 三国志孔明传
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/025 C 三国英杰传.gba
+025 C 三国英杰传
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/026 C 最终幻想1+2.gba
+026 C 最终幻想1+2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/027 C 最终幻想战略版.gba
+027 C 最终幻想战略版
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/028 C 最终幻想4.gba
+028 C 最终幻想4
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/029 C 最终幻想5.gba
+029 C 最终幻想5
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/030 C 最终幻想6.gba
+030 C 最终幻想6
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/031 C 洛克人Zero1.gba
+031 C 洛克人Zero1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/032 C 洛克人Zero2.gba
+032 C 洛克人Zero2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/033 C 洛克人Zero3.gba
+033 C 洛克人Zero3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/034 C 洛克人Zero4.gba
+034 C 洛克人Zero4
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/035 C 光明之魂.gba
+035 C 光明之魂
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/036 C 光明之魂2.gba
+036 C 光明之魂2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/037 C 火影忍者-最强忍者大集结1.gba
+037 C 火影忍者-最强忍者大集结1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/038 C 火影忍者2-最强忍者大集结.gba
+038 C 火影忍者2-最强忍者大集结
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/039 C 火影忍者-木叶战记.gba
+039 C 火影忍者-木叶战记
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/040 C 铸剑物语1.gba
+040 C 铸剑物语1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/041 C 铸剑物语2.gba
+041 C 铸剑物语2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/042 C 铸剑物语3.gba
+042 C 铸剑物语3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/043 C 特鲁尼克大冒险 2.gba
+043 C 特鲁尼克大冒险 2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/044 C 特鲁尼克大冒险3A.gba
+044 C 特鲁尼克大冒险3A
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/045 C 超级街头霸王II-X复苏.gba
+045 C 超级街头霸王II-X复苏
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/046 C 街霸方块ii 加速版.gba
+046 C 街霸方块ii 加速版
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/047 C 快打旋风.gba
+047 C 快打旋风
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/048 U 旋转瓦里奥.gba
+048 U 旋转瓦里奥
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/049 C 瓦力欧制造.gba
+049 C 瓦力欧制造
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/050 C 瓦力欧寻宝记.gba
+050 C 瓦力欧寻宝记
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/051 U 古惑狼泰坦.gba
+051 U 古惑狼泰坦
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/052 U 古惑狼-无尽的冒险.gba
+052 U 古惑狼-无尽的冒险
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/053 U 古惑狼2.gba
+053 U 古惑狼2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/054 U 小龙斯派罗-冰冻的季节.gba
+054 U 小龙斯派罗-冰冻的季节
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/055 U 小龙斯派罗2-火焰的季节.gba
+055 U 小龙斯派罗2-火焰的季节
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/056 U 小龙斯派罗-瑞诺西斯的攻击.gba
+056 U 小龙斯派罗-瑞诺西斯的攻击
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/057 U 斯派罗传说-无尽之夜.gba
+057 U 斯派罗传说-无尽之夜
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/058 U 斯派罗传说-新的开始.gba
+058 U 斯派罗传说-新的开始
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/059 U 超级大金刚1.gba
+059 U 超级大金刚1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/060 U 超级大金刚2.gba
+060 U 超级大金刚2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/061 C 大金刚-摇摆王.gba
+061 C 大金刚-摇摆王
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/062 C 七龙珠Z-舞空斗剧.gba
+062 C 七龙珠Z-舞空斗剧
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/063 U 七龙珠GT.gba
+063 U 七龙珠GT
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/064 U 七龙珠Z-悟空遗产传说.gba
+064 U 七龙珠Z-悟空遗产传说
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/065 C 龙珠Z_悟空的遗产2.gba
+065 C 龙珠Z_悟空的遗产2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/066 U 七龙珠Z-卡片收集游戏.gba
+066 U 七龙珠Z-卡片收集游戏
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/067 C 车神3.gba
+067 C 车神3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/068 U 真人快打-格斗场.gba
+068 U 真人快打-格斗场
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/069 U 真人快打-致命联盟.gba
+069 U 真人快打-致命联盟
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/070 U 雷曼A.gba
+070 U 雷曼A
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/071 U 雷曼-阿飞复仇.gba
+071 U 雷曼-阿飞复仇
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/072 U 雷曼-疯狂的兔子.gba
+072 U 雷曼-疯狂的兔子
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/073 C 荣誉勋章2-渗透者.gba
+073 C 荣誉勋章2-渗透者
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/074 C 换装迷宫2.gba
+074 C 换装迷宫2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/075 C 换装迷宫3.gba
+075 C 换装迷宫3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/076 C 超级火枪英雄.gba
+076 C 超级火枪英雄
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/077 C 乐高大战1-红色警戒.gba
+077 C 乐高大战1-红色警戒
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/078 C 银河之星-露娜传奇.gba
+078 C 银河之星-露娜传奇
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/079 C 密特罗德-零点任务.gba
+079 C 密特罗德-零点任务
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/080 C 密特罗德 -融合.gba
+080 C 密特罗德 -融合
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/081 C 忍者神龟1.gba
+081 C 忍者神龟1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/082 U 忍者神龟2.gba
+082 U 忍者神龟2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/083 U 忍者神龟3.gba
+083 U 忍者神龟3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/084 C 守护英雄.gba
+084 C 守护英雄
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/085 U 模拟人生-纯属意外.gba
+085 U 模拟人生-纯属意外
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/086 C 模拟人生-上流社会.gba
+086 C 模拟人生-上流社会
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/087 U 模拟人生2.gba
+087 U 模拟人生2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/088 C 逆转裁判1.gba
+088 C 逆转裁判1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/089 C 逆转裁判2.gba
+089 C 逆转裁判2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/090 C 逆转裁判3.gba
+090 C 逆转裁判3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/091 C 网球王子2004光荣之金.gba
+091 C 网球王子2004光荣之金
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/092 C 网球王子2004时尚之银.gba
+092 C 网球王子2004时尚之银
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/093 C 网球王子.gba
+093 C 网球王子
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/094 C 网球王子2003冰蓝版.gba
+094 C 网球王子2003冰蓝版
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/095 C 网球王子2003火红版.gba
+095 C 网球王子2003火红版
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/096 C 地球冒险3.gba
+096 C 地球冒险3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/097 C 名侦探柯南 黎明之碑.gba
+097 C 名侦探柯南 黎明之碑
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/098 C 名侦探柯南-被狙击的侦探.gba
+098 C 名侦探柯南-被狙击的侦探
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/099 C 侦探神宫寺三郎-白影少女.gba
+099 C 侦探神宫寺三郎-白影少女
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/100 C 鬼眼狂刀.gba
+100 C 鬼眼狂刀
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/101 C 海贼王-少年JUMP.gba
+101 C 海贼王-少年JUMP
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/102 C 海贼王-目标! 赏金之王.gba
+102 C 海贼王-目标! 赏金之王
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/103 C 海贼王棒球进行曲.gba
+103 C 海贼王棒球进行曲
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/104 C 蜘蛛侠-未知的威胁.gba
+104 C 蜘蛛侠-未知的威胁
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/105 C 鬼武者战略版.gba
+105 C 鬼武者战略版
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/106 C 超级机器人大战 J.gba
+106 C 超级机器人大战 J
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/107 C 超级机器人大战A.gba
+107 C 超级机器人大战A
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/108 C 超级机器人大战D.gba
+108 C 超级机器人大战D
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/109 C 超级机器人大战R.gba
+109 C 超级机器人大战R
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/110 C 超级机器人大战OG.gba
+110 C 超级机器人大战OG
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/111 C 超级机器人大战OG2.gba
+111 C 超级机器人大战OG2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/112 C 波斯王子_时之沙.gba
+112 C 波斯王子_时之沙
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/113 C 沉默的遗迹-四狂神战记外传.gba
+113 C 沉默的遗迹-四狂神战记外传
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/114 C 究级截拳道.gba
+114 C 究级截拳道
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/115 C 皇家骑士团.gba
+115 C 皇家骑士团
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/116 C 携带电兽-翡翠.gba
+116 C 携带电兽-翡翠
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/117 C 携带电兽-钻石.gba
+117 C 携带电兽-钻石
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/118 C 钢之炼金术士-回忆之奏鸣曲.gba
+118 C 钢之炼金术士-回忆之奏鸣曲
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/119 C 超人特攻队.gba
+119 C 超人特攻队
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/120 C 铁臂阿童木.gba
+120 C 铁臂阿童木
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/121 U 哈利波特-神秘的魔法石.gba
+121 U 哈利波特-神秘的魔法石
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/122 C 哈利波特-消失的密室.gba
+122 C 哈利波特-消失的密室
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/123 C 哈利波特与阿兹卡班的囚徒.gba
+123 C 哈利波特与阿兹卡班的囚徒
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/124 U 哈利波特和火焰杯.gba
+124 U 哈利波特和火焰杯
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/125 C 激斗英雄奥特曼.gba
+125 C 激斗英雄奥特曼
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/126 C 植木的法则.gba
+126 C 植木的法则
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/127 C SD高达G世纪.gba
+127 C SD高达G世纪
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/128 C SD高达-友情篇.gba
+128 C SD高达-友情篇
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/129 C 高达SEED.gba
+129 C 高达SEED
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/130 U 高达-SEED格斗篇.gba
+130 U 高达-SEED格斗篇
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/131 C 游戏王 决战怪兽-国际版 2.gba
+131 C 游戏王 决战怪兽-国际版 2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/132 C 游戏王_决战怪兽EX2006.gba
+132 C 游戏王_决战怪兽EX2006
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/133 C 游戏王6.gba
+133 C 游戏王6
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/134 C 游戏王8_破灭之大邪神.gba
+134 C 游戏王8_破灭之大邪神
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/135 C 游戏王EX3.gba
+135 C 游戏王EX3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/136 C 游戏王-世界锦标赛2004.gba
+136 C 游戏王-世界锦标赛2004
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/137 J 游戏王7-决斗都市传说.gba
+137 J 游戏王7-决斗都市传说
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/138 U 游戏王GX-决斗学院.gba
+138 U 游戏王GX-决斗学院
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/139 U 游戏王-怪兽龙门骰.gba
+139 U 游戏王-怪兽龙门骰
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/140 U 游戏王-命运之旅.gba
+140 U 游戏王-命运之旅
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/141 U 游戏王-神圣的卡片.gba
+141 U 游戏王-神圣的卡片
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/142 U 游戏王-世界锦标赛2005.gba
+142 U 游戏王-世界锦标赛2005
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/143 U 游戏王-永恒斗士之魂.gba
+143 U 游戏王-永恒斗士之魂
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/144 U 我的非洲动物中心.gba
+144 U 我的非洲动物中心
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/145 C 节奏天国.gba
+145 C 节奏天国
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/146 C 人鱼的旋律.gba
+146 C 人鱼的旋律
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/147 C 鬼太郎.gba
+147 C 鬼太郎
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/148 C 零式赛车-高潮.gba
+148 C 零式赛车-高潮
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/149 C 真 女神转生.gba
+149 C 真 女神转生
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/150 C 侦探学园q-挑战究极诡计.gba
+150 C 侦探学园q-挑战究极诡计
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/151 C 双截龙.gba
+151 C 双截龙
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/152 C 世界传说-召唤者之血统.gba
+152 C 世界传说-召唤者之血统
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/153 C 桃太郎电铁G.gba
+153 C 桃太郎电铁G
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/154 C 侏罗纪公园3.gba
+154 C 侏罗纪公园3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/155 C 侵略者.gba
+155 C 侵略者
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/156 C 光明军团－黑暗龙复活.gba
+156 C 光明军团－黑暗龙复活
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/157 C 卡片宴会.gba
+157 C 卡片宴会
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/158 C 卧虎藏龙.gba
+158 C 卧虎藏龙
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/159 C 合金射击者.gba
+159 C 合金射击者
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/160 C 多卡邦怪物猎人.gba
+160 C 多卡邦怪物猎人
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/161 C 大战略.gba
+161 C 大战略
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/162 C 太空频道5-舞啦啦之炫耀攻击.gba
+162 C 太空频道5-舞啦啦之炫耀攻击
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/163 C 妖怪守护者.gba
+163 C 妖怪守护者
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/164 C 妹妹公主.gba
+164 C 妹妹公主
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/165 C 极速零式赛车.gba
+165 C 极速零式赛车
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/166 C 实况Q版口袋棒球5.gba
+166 C 实况Q版口袋棒球5
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/167 C 心跳烹饪系列-美食家的厨房.gba
+167 C 心跳烹饪系列-美食家的厨房
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/168 C 怪兽召唤士.gba
+168 C 怪兽召唤士
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/169 C 我是航空管制官.gba
+169 C 我是航空管制官
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/170 C 战国革命外传.gba
+170 C 战国革命外传
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/171 C 星域毁灭者2173-遗嘱.gba
+171 C 星域毁灭者2173-遗嘱
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/172 C 机械化军队.gba
+172 C 机械化军队
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/173 C 棋灵王.gba
+173 C 棋灵王
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/174 C 欢乐足球.gba
+174 C 欢乐足球
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/175 C 正邪幻想曲 zero.gba
+175 C 正邪幻想曲 zero
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/176 C 友情足球4v4.gba
+176 C 友情足球4v4
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/177 C 超级躲避球.gba
+177 C 超级躲避球
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/178 C 热血物语EX.gba
+178 C 热血物语EX
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/179 C 炼金术师艾利玛丽：微风中的讯息.gba
+179 C 炼金术师艾利玛丽：微风中的讯息
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/180 C 烈火之炎.gba
+180 C 烈火之炎
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/181 C 爆转陀螺2002激斗赛-青龙之章.gba
+181 C 爆转陀螺2002激斗赛-青龙之章
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/182 C 电梯大战.gba
+182 C 电梯大战
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/183 C 风之克罗诺亚-梦之帝国.gba
+183 C 风之克罗诺亚-梦之帝国
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/184 C 闪灵二人组.gba
+184 C 闪灵二人组
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/185 C 重装机兵2.gba
+185 C 重装机兵2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/186 C 纯情房东俏房客.gba
+186 C 纯情房东俏房客
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/187 C 耽美梦想.gba
+187 C 耽美梦想
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/188 C 舞之刃-闪光.gba
+188 C 舞之刃-闪光
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/189 C 花火大会.gba
+189 C 花火大会
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/190 C 虚拟网球.gba
+190 C 虚拟网球
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/191 C 艾列米克斯物语.gba
+191 C 艾列米克斯物语
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/192 C 螺旋破坏者-轰振钻子.gba
+192 C 螺旋破坏者-轰振钻子
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/193 C 科纳米哇哇赛车.gba
+193 C 科纳米哇哇赛车
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/194 C 空战神鹰 II.gba
+194 C 空战神鹰 II
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/195 C 钻地先生-陌生的细菌.gba
+195 C 钻地先生-陌生的细菌
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/196 C 火焰之气息-龙战士.gba
+196 C 火焰之气息-龙战士
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/197 C 阿滋漫画大王.gba
+197 C 阿滋漫画大王
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/198 C 人形电脑天使心.gba
+198 C 人形电脑天使心
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/199 C 青蛙冒险2-魔法国大冒险.gba
+199 C 青蛙冒险2-魔法国大冒险
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/200 C 馅饼1-口袋梦幻-梦幻寻宝幸存挑战.gba
+200 C 馅饼1-口袋梦幻-梦幻寻宝幸存挑战
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/201 C 龙战士2.gba
+201 C 龙战士2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/202 C 雷神.gba
+202 C 雷神
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/203 C 上海.gba
+203 C 上海
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/204 C 仓库番.gba
+204 C 仓库番
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/205 C 仙剑奇侠传.gba
+205 C 仙剑奇侠传
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/206 C 信长异闻录.gba
+206 C 信长异闻录
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/207 C 光辉岁月-战争精华.gba
+207 C 光辉岁月-战争精华
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/208 C 动物管理员.gba
+208 C 动物管理员
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/209 C 射鸡英雄传2.gba
+209 C 射鸡英雄传2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/210 C 大盗伍佑卫门.gba
+210 C 大盗伍佑卫门
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/211 C 通勤一笔.gba
+211 C 通勤一笔
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/212 C 奇奇怪界.gba
+212 C 奇奇怪界
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/213 C 砖块世界.gba
+213 C 砖块世界
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/214 C 数独.gba
+214 C 数独
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/215 C 滚滚棒.gba
+215 C 滚滚棒
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/216 C 陆行鸟大陆.gba
+216 C 陆行鸟大陆
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/217 C 简单2960好友-星光魔法使.gba
+217 C 简单2960好友-星光魔法使
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/218 C 简单2960好友-桌面游戏合集.gba
+218 C 简单2960好友-桌面游戏合集
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/219 C 简单说英语1.gba
+219 C 简单说英语1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/220 C 简单说英语2.gba
+220 C 简单说英语2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/221 C 英语650句.gba
+221 C 英语650句
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/222 U 蜘蛛人2.gba
+222 U 蜘蛛人2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/223 U 蜘蛛侠-为纽约而战.gba
+223 U 蜘蛛侠-为纽约而战
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/224 U 超人归来.gba
+224 U 超人归来
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/225 U 英雄本色-马克思·佩恩.gba
+225 U 英雄本色-马克思·佩恩
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/226 U 神奇四侠.gba
+226 U 神奇四侠
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/227 U 迪斯尼全明星体育系列-滑板.gba
+227 U 迪斯尼全明星体育系列-滑板
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/228 U 迪斯尼全明星体育系列-滑雪板.gba
+228 U 迪斯尼全明星体育系列-滑雪板
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/229 U 迪斯尼全明星体育系列-足球.gba
+229 U 迪斯尼全明星体育系列-足球
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/230 U XX传奇限制级战警.gba
+230 U XX传奇限制级战警
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/231 U 冰河世纪2-消融.gba
+231 U 冰河世纪2-消融
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/232 U DOOM-毁灭战士2.gba
+232 U DOOM-毁灭战士2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/233 U 乐高星球大战2.gba
+233 U 乐高星球大战2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/234 U 乐高生化战士2.gba
+234 U 乐高生化战士2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/235 U 乐高疯狂足球.gba
+235 U 乐高疯狂足球
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/236 U 乐高积木岛2.gba
+236 U 乐高积木岛2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/237 U 乐高荒岛冒险.gba
+237 U 乐高荒岛冒险
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/238 U 乐高赛车手2.gba
+238 U 乐高赛车手2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/239 U 加勒比海盗2-亡者财宝.gba
+239 U 加勒比海盗2-亡者财宝
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/240 U 加勒比海盗.gba
+240 U 加勒比海盗
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/241 U 七龙珠Z-布欧的愤怒.gba
+241 U 七龙珠Z-布欧的愤怒
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/242 U 分裂细胞.gba
+242 U 分裂细胞
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/243 U X战警-启示录.gba
+243 U X战警-启示录
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/244 U X战警-官方游戏.gba
+244 U X战警-官方游戏
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/245 U X战警2-狼人之复仇.gba
+245 U X战警2-狼人之复仇
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/246 U 哈姆太郎-彩虹救援.gba
+246 U 哈姆太郎-彩虹救援
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/247 U 哈姆太郎运动会.gba
+247 U 哈姆太郎运动会
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/248 U 指环王-魔戒现身.gba
+248 U 指环王-魔戒现身
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/249 U 指环王-双塔.gba
+249 U 指环王-双塔
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/250 U 指环王-王者归临.gba
+250 U 指环王-王者归临
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/251 U 指环王-第三纪.gba
+251 U 指环王-第三纪
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/252 U 机器人.gba
+252 U 机器人
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/253 U 夏洛的网.gba
+253 U 夏洛的网
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/254 U 歌舞青春.gba
+254 U 歌舞青春
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/255 U 狗狗们2.gba
+255 U 狗狗们2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/256 U 电子世界争霸战2.0.gba
+256 U 电子世界争霸战2.0
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/257 U 龙骑士.gba
+257 U 龙骑士
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/258 U 粉红女郎WinX俱乐部.gba
+258 U 粉红女郎WinX俱乐部
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/259 U 纳尼亚传奇编年史.gba
+259 U 纳尼亚传奇编年史
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/260 U 终极筋肉人-超级英雄之路.gba
+260 U 终极筋肉人-超级英雄之路
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/261 U 美国偶像超巨星节拍.gba
+261 U 美国偶像超巨星节拍
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/262 U CT特种部队1.gba
+262 U CT特种部队1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/263 U CT特种部队2.gba
+263 U CT特种部队2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/264 U 华纳明星总动员.gba
+264 U 华纳明星总动员
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/265 U 忍者的复仇.gba
+265 U 忍者的复仇
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/266 U 通灵王-精神遗产之疾速之狼.gba
+266 U 通灵王-精神遗产之疾速之狼
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/267 U 通灵王-精神遗产之翱翔之鹰.gba
+267 U 通灵王-精神遗产之翱翔之鹰
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/268 U 通灵王2-精神大师.gba
+268 U 通灵王2-精神大师
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/269 U 一家之鼠2.gba
+269 U 一家之鼠2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/270 U 冲浪季节.gba
+270 U 冲浪季节
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/271 U 变相怪杰绿巨人.gba
+271 U 变相怪杰绿巨人
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/272 U 雷蒙·斯尼奇的不幸历险.gba
+272 U 雷蒙·斯尼奇的不幸历险
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/273 U 唐老鸭冒险.gba
+273 U 唐老鸭冒险
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/274 J 敲开天堂之门[风小子].gba
+274 J 敲开天堂之门[风小子]
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/275 J 摄影小子.gba
+275 J 摄影小子
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/276 U 3D德军总部.gba
+276 U 3D德军总部
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/277 U 小美人鱼奥蕾儿.gba
+277 U 小美人鱼奥蕾儿
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/278 U ESPN X竞技滑板.gba
+278 U ESPN X竞技滑板
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/279 U ESPN户外运动-巴斯钓鱼2002.gba
+279 U ESPN户外运动-巴斯钓鱼2002
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/280 U GTA职业概念赛车1.gba
+280 U GTA职业概念赛车1
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/281 U GTA职业概念赛车2.gba
+281 U GTA职业概念赛车2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/282 U GTA职业概念赛车3.gba
+282 U GTA职业概念赛车3
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/283 U GT赛车手.gba
+283 U GT赛车手
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/284 U M&M S巧克力旋风.gba
+284 U M&M S巧克力旋风
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/285 U 怪物卡车大毁灭.gba
+285 U 怪物卡车大毁灭
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/286 U 喷气女孩Him和Seek.gba
+286 U 喷气女孩Him和Seek
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/287 U 史诺比2-脱缰的怪物.gba
+287 U 史诺比2-脱缰的怪物
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/288 U 漫画英雄-终极联盟.gba
+288 U 漫画英雄-终极联盟
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/289 U 荣誉勋章.gba
+289 U 荣誉勋章
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/290 U 极品飞车-地下狂飙2.gba
+290 U 极品飞车-地下狂飙2
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/291 U 鸟人战队-巨龙雷鸣.gba
+291 U 鸟人战队-巨龙雷鸣
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/292 U 鸟人战队-强力突击队员.gba
+292 U 鸟人战队-强力突击队员
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/293 U 鸟人战队-武士风暴.gba
+293 U 鸟人战队-武士风暴
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/294 U 鸟人战队-荒野力量.gba
+294 U 鸟人战队-荒野力量
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/295 U 鸟人战队spd.gba
+295 U 鸟人战队spd
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/296 U 星球大战三部曲-学徒的原力.gba
+296 U 星球大战三部曲-学徒的原力
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/297 U 星球大战前传II-克隆人的攻击.gba
+297 U 星球大战前传II-克隆人的攻击
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/298 U 星球大战前传iii-西斯的复仇.gba
+298 U 星球大战前传iii-西斯的复仇
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+/sdcard/game/GBA/299 U 星际大战首部曲-绝地武士.gba
+299 U 星际大战首部曲-绝地武士
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+DETECT
+ggg.lpl
+
+
+

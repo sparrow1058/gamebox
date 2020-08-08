@@ -1,0 +1,714 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="564"></icon_para>	
+  <icon_page1>
+    <icon0_para id="0" name="PS1-铁拳" game_path="/sdcard/game/FBA/1_3in1semi.zip"></icon0_para>	
+    <icon1_para id="1" name="PS1-音速战机" game_path="/sdcard/game/FBA/2_3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="PS1-双截龙" game_path="/sdcard/game/FBA/3_3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="PS1-拳皇99" game_path="/sdcard/game/FBA/4_3in1semi.zip"></icon3_para>	
+    <icon4_para id="4" name="街头霸王" game_path="/sdcard/game/FBA/5_3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="三人格斗" game_path="/sdcard/game/FBA/6_3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="PS1-雷电" game_path="/sdcard/game/FBA/7_3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="PS1-侍魂" game_path="/sdcard/game/FBA/8_3in1semi.zip"></icon7_para>
+  </icon_page1>
+  <icon_page2>
+    <icon0_para id="0" name="2三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="2西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="2三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="2魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="216人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="2恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="2灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="2PS1-1945II" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+  </icon_page2>
+  <icon_page3>
+    <icon0_para id="0" name="3忍者" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="3西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="3阿童木" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="3快打旋风" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3坦克大战" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="3口袋妖怪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="3惩罚者" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="3摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page3>
+  <icon_page4>
+    <icon0_para id="0" name="4三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="4西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="4三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="4魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="416人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="4恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="4灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="4摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page4>
+  <icon_page5>
+    <icon0_para id="0" name="5三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="5西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="5三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="5魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="516人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="5恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="5灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="5摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page5>
+  <icon_page6>
+    <icon0_para id="0" name="6三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="6西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="6三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="6魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="616人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="6恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="6灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="6摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page6>
+  <icon_page7>
+    <icon0_para id="0" name="7三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="7西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="7三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="7魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="716人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="7恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="7灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="7摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page7>
+  <icon_page8>
+    <icon0_para id="0" name="8三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="8西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="8三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="8魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="816人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="8恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="8灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="8摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page8>
+  <icon_page9>
+    <icon0_para id="0" name="9三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="9西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="9三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="9魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="916人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="9恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="9灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="9摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page9>
+  <icon_page10>
+    <icon0_para id="0" name="10三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="10西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="10三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="10魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1106人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="10恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="10灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="10摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page10>
+  <icon_page11>
+    <icon0_para id="0" name="11三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="11西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="11三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="11魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1116人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="11恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="11灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="11摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page11>
+  <icon_page12>
+    <icon0_para id="0" name="12三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="12西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="12三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="12魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1226人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="12恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="12灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="12摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page12>
+  <icon_page13>
+    <icon0_para id="0" name="13三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="13西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="13三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="13魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1316人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="13恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="13灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="13摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page13>
+  <icon_page14>
+    <icon0_para id="0" name="14三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="14西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="14三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="14魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1416人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="14恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="14灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="14摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page14>
+  <icon_page15>
+    <icon0_para id="0" name="15三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="15西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="15三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="15魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1516人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="15恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="15灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="15摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page15>
+  <icon_page16>
+    <icon0_para id="0" name="16三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="16西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="16三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="16魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1616人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="16恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="16灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="16摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+  </icon_page16>
+  <icon_page17>
+    <icon0_para id="0" name="17三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="17西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="17三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="17魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1716人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="17恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="17灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="17摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+  </icon_page17>
+  <icon_page18>
+    <icon0_para id="0" name="18三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="18西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="18三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="18魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1816人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="18恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="18灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="18摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page18>
+  <icon_page19>
+    <icon0_para id="0" name="19三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="19西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="19三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="19魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="1916人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="19恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="19灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="19摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page19>
+  <icon_page20>
+    <icon0_para id="0" name="20三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="20西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="20三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="20魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2016人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="20恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="20灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="20摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page20>
+  <icon_page21>
+    <icon0_para id="0" name="21三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="21西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="21三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="21魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2116人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="21恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="21灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="21摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page21>
+  <icon_page22>
+    <icon0_para id="0" name="22三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="22西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="22三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="22魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2216人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="22恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="22灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="22摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page22>
+  <icon_page23>
+    <icon0_para id="0" name="23三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="23西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="23三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="23魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2316人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="23恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="23灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="23摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page23>
+  <icon_page24>
+    <icon0_para id="0" name="24三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="24西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="24三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="24魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2416人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="24恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="24灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="24摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page24>
+  <icon_page25>
+    <icon0_para id="0" name="25三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="25西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="25三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="25魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2516人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="25恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="25灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="25摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page25>
+  <icon_page26>
+    <icon0_para id="0" name="26三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="26西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="26三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="26魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2616人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="26恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="26灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="26摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page26>
+  <icon_page27>
+    <icon0_para id="0" name="27三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="27西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="27三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="27魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2716人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="27恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="27灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="27摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page27> 
+  <icon_page28>
+    <icon0_para id="0" name="28三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="28西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="28三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="28魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2816人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="28恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="28灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="28摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page28> 
+  <icon_page29>
+    <icon0_para id="0" name="29三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="29西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="29三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="29魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="2916人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="29恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="29灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="29摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page29> 
+  <icon_page30>
+    <icon0_para id="0" name="30三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="30西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="30三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="30魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3016人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="30恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="30灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="30摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page30> 
+  <icon_page31>
+    <icon0_para id="0" name="31三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="31西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="31三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="31魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3116人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="31恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="31灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="31摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page31> 
+  <icon_page32>
+    <icon0_para id="0" name="32三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="32西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="32三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="32魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3216人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="32恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="32灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="32摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page32> 
+  <icon_page33>
+    <icon0_para id="0" name="33三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="33西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="33三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="33魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3316人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="33恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="33灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="33摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page33> 
+  <icon_page34>
+    <icon0_para id="0" name="34三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="34西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="34三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="34魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3416人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="34恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="34灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="34摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page34> 
+  <icon_page35>
+    <icon0_para id="0" name="35三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="35西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="35三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="35魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3516人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="35恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="35灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="35摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page35> 
+  <icon_page36>
+    <icon0_para id="0" name="36三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="36西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="36三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="36魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3616人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="36恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="36灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="36摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page36> 
+  <icon_page37>
+    <icon0_para id="0" name="37三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="37西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="37三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="37魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3716人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="37恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="37灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="37摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page37> 
+  <icon_page38>
+    <icon0_para id="0" name="38三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="38西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="38三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="38魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3816人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="38恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="38灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="38摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page38> 
+  <icon_page39>
+    <icon0_para id="0" name="39三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="39西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="39三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="39魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="3916人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="39恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="39灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="39摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page39> 
+  <icon_page40>
+    <icon0_para id="0" name="40三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="40西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="40三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="40魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4016人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="40恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="40灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="40摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page40> 
+  <icon_page41>
+    <icon0_para id="0" name="41三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="41西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="41三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="41魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4116人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="41恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="41灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="41摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page41> 
+  <icon_page42>
+    <icon0_para id="0" name="42三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="42西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="42三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="42魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4216人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="42恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="42灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="42摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page42> 
+  <icon_page43>
+    <icon0_para id="0" name="43三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="43西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="43三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="43魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4316人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="43恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="43灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="43摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page43> 
+  <icon_page44>
+    <icon0_para id="0" name="44三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="44西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="44三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="44魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4416人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="44恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="44灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="44摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page44> 
+  <icon_page45>
+    <icon0_para id="0" name="45三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="45西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="45三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="45魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4516人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="45恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="45灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="45摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page45> 
+  <icon_page46>
+    <icon0_para id="0" name="46三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="46西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="46三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="46魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4616人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="46恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="46灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="46摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page46> 
+  <icon_page47>
+    <icon0_para id="0" name="47三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="47西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="47三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="47魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4716人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="47恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="47灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="47摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page47> 
+  <icon_page48>
+    <icon0_para id="0" name="48三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="48西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="48三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="48魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4816人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="48恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="48灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="48摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page48> 
+  <icon_page49>
+    <icon0_para id="0" name="49三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="49西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="49三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="49魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="4916人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="49恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="49灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="49摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page49> 
+  <icon_page50>
+    <icon0_para id="0" name="50三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="50西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="50三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="50魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5016人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="50恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="50灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="50摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page50> 
+  <icon_page51>
+    <icon0_para id="0" name="51三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="51西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="51三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="51魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5116人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="51恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="51灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="51摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page51> 
+  <icon_page52>
+    <icon0_para id="0" name="52三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="52西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="52三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="52魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5216人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="52恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="52灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="52摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page52> 
+  <icon_page53>
+    <icon0_para id="0" name="53三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="53西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="53三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="53魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5316人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="53恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="53灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="53摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page53> 
+  <icon_page54>
+    <icon0_para id="0" name="54三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="54西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="54三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="54魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5416人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="54恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="54灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="54摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page54> 
+  <icon_page55>
+    <icon0_para id="0" name="55三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="55西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="55三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="55魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5516人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="55恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="55灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="55摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page55> 
+  <icon_page56>
+    <icon0_para id="0" name="56三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="56西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="56三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="56魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5616人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="56恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="56灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="56摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page56> 
+  <icon_page57>
+    <icon0_para id="0" name="57三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="57西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="57三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="57魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5716人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="57恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="57灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="57摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page57> 
+  <icon_page58>
+    <icon0_para id="0" name="58三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="58西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="58三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="58魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5816人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="58恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="58灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="58摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page58> 
+  <icon_page59>
+    <icon0_para id="0" name="59三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="59西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="59三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="59魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="5916人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="59恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="59灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="59摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page59> 
+  <icon_page60>
+    <icon0_para id="0" name="60三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="60西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="60三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="60魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6016人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="60恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="60灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="60摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page60> 
+  <icon_page61>
+    <icon0_para id="0" name="61三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="61西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="61三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="61魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6116人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="61恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="61灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="61摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page61>
+   <icon_page62>
+    <icon0_para id="0" name="62三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="62西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="62三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="62魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6216人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="62恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="62灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="62摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page62> 
+  <icon_page63>
+    <icon0_para id="0" name="63三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="63西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="63三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="63魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6316人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="63恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="63灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="63摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page63> 
+  <icon_page64>
+    <icon0_para id="0" name="64三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="64西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="64三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="64魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6416人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="64恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="64灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="64摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page64> 
+  <icon_page65>
+    <icon0_para id="0" name="65三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="65西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="65三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="65魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6516人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="65恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="65灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="65摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page65> 
+  <icon_page66>
+    <icon0_para id="0" name="66三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="66西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="66三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="66魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6616人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="66恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="66灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="66摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page66> 
+  <icon_page67>
+    <icon0_para id="0" name="67三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="67西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="67三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="67魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6716人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="67恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="67灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="67摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page67> 
+  <icon_page68>
+    <icon0_para id="0" name="68三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="68西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="68三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="68魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6816人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="68恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="68灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="68摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page68> 
+  <icon_page69>
+    <icon0_para id="0" name="69三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="69西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="69三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="69魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="6916人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="69恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="69灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="69摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page69> 
+  <icon_page70>
+    <icon0_para id="0" name="70三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="70西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="70三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="70魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="7016人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="70恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="70灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="70摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page70> 
+  <icon_page71>
+    <icon0_para id="0" name="71三国战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon0_para>
+    <icon1_para id="1" name="71西游记" game_path="/sdcard/game/FBA/3in1semi.zip"></icon1_para>
+    <icon2_para id="2" name="71三国志" game_path="/sdcard/game/FBA/3in1semi.zip"></icon2_para>
+    <icon3_para id="3" name="71魂斗罗" game_path="/sdcard/game/FBA/3in1semi.zip"></icon3_para>
+    <icon4_para id="4" name="7116人街霸" game_path="/sdcard/game/FBA/3in1semi.zip"></icon4_para>
+    <icon5_para id="5" name="71恐龙战纪" game_path="/sdcard/game/FBA/3in1semi.zip"></icon5_para>
+    <icon6_para id="6" name="71灌篮高手" game_path="/sdcard/game/FBA/3in1semi.zip"></icon6_para>
+    <icon7_para id="7" name="71摔跤霸王" game_path="/sdcard/game/FBA/3in1semi.zip"></icon7_para>
+   </icon_page71>    
+</strings_resources>

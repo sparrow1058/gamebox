@@ -1,0 +1,30 @@
+/mnt/sdcard/game/PS/5004601.img
+
+/usr/local/share/minigui/res/game_lib/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+
+
+/mnt/sdcard/game/GBA/001 C 索尼克1.gba
+
+/usr/local/share/minigui/res/game_lib/mgba_libretro.so
+mGBA
+
+
+/mnt/sdcard/game/PS/Crash Bandicoot (USA).bin
+
+/usr/local/share/minigui/res/game_lib/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+
+
+/sdcard/game/PSP/cvn-aisho.rx_dpad.ISO
+
+/mnt/sdcard/settings/res/PSP/lib/ppsspp_libretro.so
+PPSSPP
+
+
+/oem/game/001_Super_Mario_Bros.nes
+
+/usr/local/share/minigui/res/game_lib/fceumm_libretro.so
+FCEUmm
+
+

@@ -1,0 +1,9 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="3"></icon_para>	
+  <icon_page1>
+    <icon0_para id="0" name="1.洛克人" game_path="001 洛克人 1.gb"></icon0_para>	
+    <icon1_para id="1" name="2.洛克人2" game_path="002 洛克人 2.gb"></icon1_para>
+    <icon2_para id="2" name="2.洛克人3" game_path="003 洛克人 3.gb"></icon2_para>
+  </icon_page1>
+</strings_resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="15"></icon_para>
+  <icon_para game_file="1"></icon_para>	   
+  <icon_page1>
+    <icon0_para id="PS" name="千禧之战" game_path="CAPCOM VS SNK 千禧之战.PBP"></icon0_para>	
+    <icon1_para id="PS" name="勇者斗恶龙英雄" game_path="DRAGON QUEST HEROES.img"></icon1_para>
+    <icon2_para id="PS" name="侍魂剑客异闻录" game_path="shihun.img"></icon2_para>
+    <icon3_para id="PS" name="大航海时代外传" game_path="大航海时代外传.bin"></icon3_para>	
+    <icon4_para id="PS" name="恶魔城月下夜想曲" game_path="恶魔城月下夜想曲中文版.img"></icon4_para>
+    <icon5_para id="PS" name="魂斗罗进化" game_path="魂斗罗 进化.PBP"></icon5_para>
+    <icon6_para id="PS" name="铃木爆发" game_path="铃木爆发.PBP"></icon6_para>
+    <icon7_para id="PS" name="少年街霸" game_path="shaonianjieba.iso"></icon7_para>
+	<icon8_para id="PS" name="山脊赛车4" game_path="山脊赛车4.PBP"></icon8_para>
+	<icon9_para id="PS" name="射雕英雄传" game_path="射雕英雄传.bin"></icon9_para>
+  </icon_page1>
+  <icon_page2>
+    <icon0_para id="PS" name="生化危机枪下游魂" game_path="生化危机 枪下游魂.PBP"></icon0_para>
+    <icon1_para id="PS" name="铁拳3" game_path="铁拳3.PBP"></icon1_para>
+    <icon2_para id="PS" name="织田信长传" game_path="织田信长传.bin"></icon2_para>
+    <icon3_para id="PS" name="雷鸟5" game_path="leiniao.iso"></icon3_para>
+    <icon4_para id="PS" name="鬼眼狂刀" game_path="guiyankuangdao.iso"></icon4_para>
+  </icon_page2>
+</strings_resources>

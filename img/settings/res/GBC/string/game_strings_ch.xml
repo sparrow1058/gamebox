@@ -1,0 +1,9 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="3"></icon_para>	
+  <icon_page1>
+    <icon0_para id="0" name="1.超级大金刚" game_path="001 超级大金刚 1.gbc"></icon0_para>	
+    <icon1_para id="1" name="2.勇者斗恶龙" game_path="002 勇者斗恶龙 1+2.gbc"></icon1_para>
+    <icon2_para id="1" name="2.勇者斗恶龙3" game_path="003 勇者斗恶龙 3.gbc"></icon2_para>
+  </icon_page1>   
+</strings_resources>

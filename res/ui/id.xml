@@ -1,0 +1,12 @@
+<res-ids>
+	<res-id>
+		<id name="ID_MAINWND1"  value="0x80001"/>
+		<type>8</type>
+		<source>res/ui/background.xml</source>
+	</res-id>
+	<res-id>
+		<id name="ID_TITLE"  value="0x40000009"/>
+		<type>16384</type>
+		<source></source>
+	</res-id>
+</res-ids>

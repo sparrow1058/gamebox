@@ -1,0 +1,9 @@
+<?xml version="1.0"?>   
+<strings_resources>   
+<icon_para game_list_total="3"></icon_para>
+  <icon_page1> 
+    <icon0_para  name="1.C 3countb" game_path="knights.zip"></icon0_para>  
+    <icon1_para  name="2.U 3合一" game_path="3in1semi.zip"></icon1_para>  
+    <icon2_para  name="3.C 3wonders" game_path="3wonders.zip"></icon2_para> 
+  </icon_page1>   
+</strings_resources> 

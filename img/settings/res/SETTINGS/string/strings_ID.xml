@@ -1,0 +1,136 @@
+<?xml version="1.0"?> 
+<strings_resources>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="0" name="Pengaturan"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="1" name="Pengaturan bahasa"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="2" name="Tampilan game"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="3" name="Gaya tema"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="4" name="Layar mati"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="5" name="Mode koneksi"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="6" name="Hapus riwayat game"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="7" name="Pulihkan default"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="8" name="Tes tombol"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="0" name="Pengaturan bahasa"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="1" name="简体中文"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="2" name="繁體中文"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="3" name="Engelish"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="4" name="日本語"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="5" name="한글"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="6" name="русский язык"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="7" name="Orang indonesia"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="8" name="dansk"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="9" name="Le français"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="10" name="Deutsch"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+     <GameShowstring id="0" name="Tampilan game"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="1" name="Mode layar penuh"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="2" name="Mode skala yang sama"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="3" name="Sukses"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="4" name="Kegagalan"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="0" name="Gaya tema"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="1" name="Tema 1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="2" name="Tema 2"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="3" name="Tema 3"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="0" name="Gamepad"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="1" name="Gunakan pegangan asli"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="2" name="Nonaktifkan pegangan asli"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="0" name="Layar mati"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="1" name="Tidak ada operasi selama sekitar tiga menit"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="2" name="Batalkan pengaturan batas waktu"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="0" name="Lampu latar"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="1" name="Level 1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="2" name="Level 2"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="3" name="Level 3"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="4" name="Level 4"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="0" name="Hapus riwayat game"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="1" name="Ya"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="2" name="Tidak"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="3" name="Sukses"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="4" name="Kegagalan"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="0" name="Anda yakin ingin pulih?"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="1" name="Tentukan"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="2" name="Batalkan"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="3" name="Sukses"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="4" name="Kegagalan"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="0" name="Informasi sistem"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="1" name="Model:MX312"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="2" name="Versi firmware:V1.1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="0" name="Game"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="1" name="Film"/>
+	<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="2" name="Musik"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="3" name="Tema"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="4" name="Sejarah game"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="5" name="Folder"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="6" name="Kecerahan layar"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="7" name="Pengaturan"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <WaitInfostring id="0" name="Memuat....."/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <StartInfostring id="0" name="Format tidak didukung！"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="0" name="Mode koneksi"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="1" name="Menghubungkan ke komputer"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="2" name="Pegangan koneksi"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+</strings_resources>

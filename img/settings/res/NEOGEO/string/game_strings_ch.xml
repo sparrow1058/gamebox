@@ -1,0 +1,9 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="3"></icon_para>	
+  <icon_page1>
+    <icon0_para id="0" name="1.三国战纪2" game_path="kof97.zip"></icon0_para>	
+    <icon1_para id="1" name="2.PS1-音速战机" game_path="kovsh.zip"></icon1_para>
+    <icon2_para id="2" name="3.PS1-97" game_path="mslug2.zip"></icon2_para>
+  </icon_page1>  
+</strings_resources>

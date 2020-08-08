@@ -1,0 +1,137 @@
+<?xml version="1.0"?> 
+<strings_resources>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="0" name="設定"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="1" name="言語設定"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="2" name="ゲーム表示"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="3" name="テーマスタイル"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="4" name="タイムアウト設定"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="5" name="接続モード"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="6" name="クリアレコード"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="7" name="復元システム"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Setingstring id="8" name="ボタンテスト"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="0" name="言語"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="1" name="简体中文"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="2" name="繁體中文"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="3" name="Engelish"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="4" name="日本語"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="5" name="한글"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="6" name="русский язык"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="7" name="Orang indonesia"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="8" name="dansk"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="9" name="Le français"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Langstring id="10" name="Deutsch"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="0" name="ディスプレイ"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="1" name="フルスクリーン"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="2" name="等しい割合"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="3" name="成功"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <GameShowstring id="4" name="失敗"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="0" name="テーマ"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="1" name="テーマ 1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="2" name="テーマ 2"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Themestring id="3" name="テーマ 3"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="0" name="ゲームパッド"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="1" name="ネイティブハンドルを使う"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Joystring id="2" name="ネイティブハンドルを無効にする"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="0" name="タイムアウト"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="1" name="約3分間無操作"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <TimeOutstring id="2" name="タイムアウト設定をキャンセル"/>
+
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="0" name="バックライト"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="1" name="レベル 1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="2" name="レベル 2"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="3" name="レベル 3"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Bakclightstring id="4" name="レベル 4"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="0" name="クリアレコード"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="1" name="はい"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="2" name="なし"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="3" name="成功"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <HistoryCleanstring id="4" name="失敗"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="0" name="あなたは確かに回復したいですか？"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="1" name="確か"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="2" name="取り消し"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="3" name="成功"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <Factorystring id="4" name="失敗"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="0" name="システム"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="1" name="モデル:MX312"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <SystemInfostring id="2" name="バージョン:V1.1"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="0" name="ゲーム"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="1" name="映画"/>
+	<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="2" name="音楽"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="3" name="テーマ"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="4" name="ゲームの歴史"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="5" name="フォルダ"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="6" name="画面の明るさ"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <MenuInfostring id="7" name="設定"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <WaitInfostring id="0" name="ロード中....."/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <StartInfostring id="0" name="エラーフォーマット！"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="0" name="接続モード"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="1" name="コンピュータに接続する"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+    <UpanInfostring id="2" name="接続ハンドル"/>
+<!-- Suffix added to a number to signify size in petabytes. -->
+</strings_resources>

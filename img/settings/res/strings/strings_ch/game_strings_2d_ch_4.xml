@@ -1,0 +1,604 @@
+<?xml version="1.0"?> 
+<strings_resources>
+  <icon_para game_list_total="500"></icon_para>	
+  <icon_page151>
+    <icon0_para id="FC" name="忍者神龟1" game_path="001 忍者神龟1.nes"></icon0_para>
+    <icon1_para id="FC" name="忍者神龟2" game_path="002 忍者神龟2.nes"></icon1_para>
+    <icon2_para id="FC" name="忍者神龟3" game_path="003 忍者神龟3.nes"></icon2_para>
+    <icon3_para id="FC" name="神龟激斗(汉化版)" game_path="004 神龟激斗(汉化版).nes"></icon3_para>
+    <icon4_para id="FC" name="绿色兵团" game_path="005 绿色兵团.nes"></icon4_para>
+    <icon5_para id="FC" name="人间兵器(汉化版)" game_path="006 人间兵器(汉化版).nes"></icon5_para>
+    <icon6_para id="FC" name="人间兵器2(汉化版)" game_path="007 人间兵器2(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="赤影战士(汉化版)" game_path="008 赤影战士(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="中东战争(汉化版)" game_path="009 中东战争(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="三目童子(汉化版)" game_path="010 三目童子(汉化版).nes"></icon9_para>
+  </icon_page151>
+  <icon_page152>
+    <icon0_para id="FC" name="马戏团[汉化版]" game_path="011 马戏团[汉化版].nes"></icon0_para>
+    <icon1_para id="FC" name="街霸12人" game_path="012 街霸12人.nes"></icon1_para>
+    <icon2_para id="FC" name="街霸16人" game_path="013 街霸16人.nes"></icon2_para>
+    <icon3_para id="FC" name="街霸2" game_path="014 街霸2.nes"></icon3_para>
+    <icon4_para id="FC" name="街霸5(10人)" game_path="015 街霸5(10人).nes"></icon4_para>
+    <icon5_para id="FC" name="街霸60人" game_path="016 街霸60人.nes"></icon5_para>
+    <icon6_para id="FC" name="街霸III(13人)" game_path="017 街霸III(13人).nes"></icon6_para>
+    <icon7_para id="FC" name="赤影" game_path="018 赤影.nes"></icon7_para>
+	<icon8_para id="FC" name="最终任务" game_path="019 最终任务.nes"></icon8_para>
+	<icon9_para id="FC" name="最终殖民地" game_path="020 最终殖民地.nes"></icon9_para>
+  </icon_page152>
+  <icon_page153>
+    <icon0_para id="FC" name="坦克大战2008加速汉化版" game_path="021 坦克大战2008加速汉化版.nes"></icon0_para>
+    <icon1_para id="FC" name="塞尔达传说(汉化版)无敌hack" game_path="022 塞尔达传说(汉化版)无敌hack.nes"></icon1_para>
+    <icon2_para id="FC" name="卡诺夫" game_path="148 卡诺夫.nes"></icon2_para>
+    <icon3_para id="FC" name="俄罗斯方块" game_path="023 俄罗斯方块.nes"></icon3_para>
+    <icon4_para id="FC" name="俄罗斯方块2" game_path="024 俄罗斯方块2.nes"></icon4_para>
+    <icon5_para id="FC" name="特救指令(汉化版)" game_path="025 特救指令(汉化版).nes"></icon5_para>
+    <icon6_para id="FC" name="笑傲江湖(汉化版)" game_path="026 笑傲江湖(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="绝代双娇(汉化版)" game_path="027 绝代双娇(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="荆轲新传(汉化版)" game_path="028 荆轲新传(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="爆笑三国(汉化版)" game_path="029 爆笑三国(汉化版).nes"></icon9_para>
+   </icon_page153>
+  <icon_page154>
+    <icon0_para id="FC" name="武林外传(汉化版)" game_path="030 武林外传(汉化版).nes"></icon0_para>
+    <icon1_para id="FC" name="快打旋风(汉化版)" game_path="031 快打旋风(汉化版).nes"></icon1_para>
+    <icon2_para id="FC" name="三国英烈传(汉化版)" game_path="032 三国英烈传(汉化版).nes"></icon2_para>
+    <icon3_para id="FC" name="三国志英杰传(汉化版)" game_path="033 三国志英杰传(汉化版).nes"></icon3_para>
+    <icon4_para id="FC" name="三国志(汉化版)" game_path="034 三国志(汉化版).nes"></icon4_para>
+    <icon5_para id="FC" name="三国志4-赤壁风云(汉化版)" game_path="035 三国志4-赤壁风云(汉化版).nes"></icon5_para>
+    <icon6_para id="FC" name="双截龙1(汉化版)" game_path="036 双截龙1(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="双截龙2(汉化版)" game_path="037 双截龙2(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="双截龙3(汉化版)" game_path="038 双截龙3(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="双截龙4(汉化版)" game_path="039 双截龙4(汉化版).nes"></icon9_para>
+   </icon_page154>
+  <icon_page155>
+    <icon0_para id="FC" name="战斗蛙与双截龙" game_path="040 战斗蛙与双截龙.nes"></icon0_para>
+    <icon1_para id="FC" name="脱狱(汉化版)" game_path="041 脱狱(汉化版).nes"></icon1_para>
+    <icon2_para id="FC" name="忍者龙剑传1" game_path="042 忍者龙剑传1.nes"></icon2_para>
+    <icon3_para id="FC" name="忍者龙剑传2" game_path="043 忍者龙剑传2.nes"></icon3_para>
+    <icon4_para id="FC" name="忍者龙剑传3" game_path="044 忍者龙剑传3.nes"></icon4_para>
+    <icon5_para id="FC" name="忍者龙剑传外传" game_path="045 忍者龙剑传外传.nes"></icon5_para>
+    <icon6_para id="FC" name="最终幻想5(汉化版)" game_path="046 最终幻想5(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="游戏王(汉化版)" game_path="047 游戏王(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="圣斗士星矢(汉化版)" game_path="048 圣斗士星矢(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="岳飞传(汉化版)" game_path="049 岳飞传(汉化版).nes"></icon9_para>
+   </icon_page155>
+  <icon_page156>
+    <icon0_para id="FC" name="少年游侠(汉化版)" game_path="050 少年游侠(汉化版).nes"></icon0_para>
+    <icon1_para id="FC" name="洛克人1" game_path="051 洛克人1.nes"></icon1_para>
+    <icon2_para id="FC" name="洛克人2(汉化版)" game_path="052 洛克人2(汉化版).nes"></icon2_para>
+    <icon3_para id="FC" name="洛克人3" game_path="053 洛克人3.nes"></icon3_para>
+    <icon4_para id="FC" name="洛克人4" game_path="054 洛克人4.nes"></icon4_para>
+    <icon5_para id="FC" name="洛克人5" game_path="055 洛克人5.nes"></icon5_para>
+    <icon6_para id="FC" name="洛克人6(汉化版)" game_path="056 洛克人6(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="洛克人7" game_path="057 洛克人7.nes"></icon7_para>
+	<icon8_para id="FC" name="热血足球联盟(汉化版)" game_path="058 热血足球联盟(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="雷电" game_path="840 雷电.nes"></icon9_para>
+   </icon_page156>
+  <icon_page157>
+    <icon0_para id="FC" name="热血高校足球(汉化版)" game_path="059 热血高校足球(汉化版).nes"></icon0_para>
+    <icon1_para id="FC" name="热血高校躲避球(汉化版)" game_path="060 热血高校躲避球(汉化版).nes"></icon1_para>
+    <icon2_para id="FC" name="热血物语(汉化版)" game_path="061 热血物语(汉化版).nes"></icon2_para>
+    <icon3_para id="FC" name="热血新纪录(汉化版)" game_path="062 热血新纪录(汉化版).nes"></icon3_para>
+    <icon4_para id="FC" name="热血格斗传说(汉化版)" game_path="063 热血格斗传说(汉化版).nes"></icon4_para>
+    <icon5_para id="FC" name="热血进行曲(汉化版)" game_path="064 热血进行曲(汉化版).nes"></icon5_para>
+    <icon6_para id="FC" name="热血曲棍球(汉化版)" game_path="065 热血曲棍球(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="热血硬派" game_path="066 热血硬派.nes"></icon7_para>
+	<icon8_para id="FC" name="热血篮球" game_path="067 热血篮球.nes"></icon8_para>
+	<icon9_para id="FC" name="热血冰球" game_path="068 热血冰球.nes"></icon9_para>
+   </icon_page157>
+  <icon_page158>
+    <icon0_para id="FC" name="热血时代剧" game_path="069 热血时代剧.nes"></icon0_para>
+    <icon1_para id="FC" name="热血道中记" game_path="070 热血道中记.nes"></icon1_para>
+    <icon2_para id="FC" name="热血城市特派员" game_path="071 热血城市特派员.nes"></icon2_para>
+    <icon3_para id="FC" name="松鼠大作战1" game_path="072 松鼠大作战1.nes"></icon3_para>
+    <icon4_para id="FC" name="松鼠大作战2(汉化版)" game_path="073 松鼠大作战2(汉化版).nes"></icon4_para>
+    <icon5_para id="FC" name="冒险岛无敌版(HACK)" game_path="074 冒险岛无敌版(HACK).nes"></icon5_para>
+    <icon6_para id="FC" name="冒险岛2(汉化版)" game_path="075 冒险岛2(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="冒险岛3(汉化版)" game_path="076 冒险岛3(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="冒险岛4(汉化版)" game_path="077 冒险岛4(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="成龙踢馆(汉化版)" game_path="078 成龙踢馆(汉化版).nes"></icon9_para> 
+ </icon_page158>
+  <icon_page159>
+    <icon0_para id="FC" name="成龙之龙(汉化版)" game_path="079 成龙之龙(汉化版).nes"></icon0_para>
+    <icon1_para id="FC" name="超时空要塞[汉化版]" game_path="080 超时空要塞[汉化版].nes"></icon1_para>
+    <icon2_para id="FC" name="林则徐禁烟(汉化版)" game_path="081 林则徐禁烟(汉化版).nes"></icon2_para>
+    <icon3_para id="FC" name="赤色要塞" game_path="082 赤色要塞.nes"></icon3_para>
+    <icon4_para id="FC" name="菩故须苛战争(汉化版)" game_path="083 菩故须苛战争(汉化版).nes"></icon4_para>
+    <icon5_para id="FC" name="勇者斗恶龙6(汉化版)" game_path="084 勇者斗恶龙6(汉化版).nes"></icon5_para>
+    <icon6_para id="FC" name="勇者斗恶龙7(汉化版)" game_path="085 勇者斗恶龙7(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="俄罗斯方块2+炸弹方块" game_path="086 俄罗斯方块2+炸弹方块.nes"></icon7_para>
+	<icon8_para id="FC" name="俄罗斯2代-Tengen版" game_path="087 俄罗斯2代-Tengen版.nes"></icon8_para>
+	<icon9_para id="FC" name="恶魔城1" game_path="088 恶魔城1.nes"></icon9_para> 
+ </icon_page159>
+  <icon_page160>
+    <icon0_para id="FC" name="恶魔城2" game_path="089 恶魔城2.nes"></icon0_para>
+    <icon1_para id="FC" name="恶魔城3-德古拉的诅咒" game_path="090 恶魔城3-德古拉的诅咒.nes"></icon1_para>
+    <icon2_para id="FC" name="恶魔城僵尸版ＨＡＣＫ" game_path="091 恶魔城僵尸版ＨＡＣＫ.nes"></icon2_para>
+    <icon3_para id="FC" name="恶魔城-王子外传" game_path="092 恶魔城-王子外传.nes"></icon3_para>
+    <icon4_para id="FC" name="重装机兵(汉化版)" game_path="093 重装机兵(汉化版).nes"></icon4_para>
+    <icon5_para id="FC" name="敲冰块[汉化版]" game_path="094 敲冰块[汉化版].nes"></icon5_para>
+    <icon6_para id="FC" name="沙罗曼蛇" game_path="095 沙罗曼蛇.nes"></icon6_para>
+    <icon7_para id="FC" name="沙罗曼蛇2(汉化版)" game_path="096 沙罗曼蛇2(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="沙罗曼蛇3" game_path="097 沙罗曼蛇3.nes"></icon8_para>
+	<icon9_para id="FC" name="宇宙巡航机(沙罗曼蛇2)" game_path="098 宇宙巡航机(沙罗曼蛇2).nes"></icon9_para>
+   </icon_page160>
+  <icon_page161>
+    <icon0_para id="FC" name="大金刚1[汉化版]" game_path="099 大金刚1[汉化版].nes"></icon0_para>
+    <icon1_para id="FC" name="大金刚2[汉化版]" game_path="100 大金刚2[汉化版].nes"></icon1_para>
+    <icon2_para id="FC" name="大金刚3[汉化版]" game_path="101 大金刚3[汉化版].nes"></icon2_para>
+    <icon3_para id="FC" name="大金刚-香蕉船(汉化版)" game_path="102 大金刚-香蕉船(汉化版).nes"></icon3_para>
+    <icon4_para id="FC" name="G I J特殊部队" game_path="103 G I J特殊部队.nes"></icon4_para>
+    <icon5_para id="FC" name="黄帝(汉化版)" game_path="104 黄帝(汉化版).nes"></icon5_para>
+    <icon6_para id="FC" name="小蜜蜂[汉化版]" game_path="105 小蜜蜂[汉化版].nes"></icon6_para>
+    <icon7_para id="FC" name="大蜜蜂[汉化版]" game_path="106 大蜜蜂[汉化版].nes"></icon7_para>
+	<icon8_para id="FC" name="火箭车(汉化版)" game_path="107 火箭车(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="汽球大战[汉化版]" game_path="108 汽球大战[汉化版].nes"></icon9_para>
+   </icon_page161>
+  <icon_page162>
+    <icon0_para id="FC" name="兔宝宝历险记1" game_path="109 兔宝宝历险记1.nes"></icon0_para>
+    <icon1_para id="FC" name="兔宝宝历险记2(汉化版)" game_path="110 兔宝宝历险记2(汉化版).nes"></icon1_para>
+    <icon2_para id="FC" name="中国象棋(汉化版)" game_path="111 中国象棋(汉化版).nes"></icon2_para>
+    <icon3_para id="FC" name="挖掘[汉化版]" game_path="112 挖掘[汉化版].nes"></icon3_para>
+    <icon4_para id="FC" name="网球[汉化版]" game_path="113 网球[汉化版].nes"></icon4_para>
+    <icon5_para id="FC" name="龙魂" game_path="114 龙魂.nes"></icon5_para>
+    <icon6_para id="FC" name="古巴战士(汉化版)" game_path="115 古巴战士(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="前线大作战[汉化版]" game_path="116 前线大作战[汉化版].nes"></icon7_para>
+	<icon8_para id="FC" name="鸡蛋迪兹的幻想冒险" game_path="117 鸡蛋迪兹的幻想冒险.nes"></icon8_para>
+	<icon9_para id="FC" name="鳄鱼先生" game_path="118 鳄鱼先生.nes"></icon9_para>
+   </icon_page162>
+  <icon_page163>
+    <icon0_para id="FC" name="F-1赛车[汉化版]" game_path="119 F-1赛车[汉化版].nes"></icon0_para>
+    <icon1_para id="FC" name="JuJu传说(汉化版)" game_path="120 JuJu传说(汉化版).nes"></icon1_para>
+    <icon2_para id="FC" name="七宝奇谋[汉化版]" game_path="121 七宝奇谋[汉化版].nes"></icon2_para>
+    <icon3_para id="FC" name="三只小猪[汉化版]" game_path="122 三只小猪[汉化版].nes"></icon3_para>
+    <icon4_para id="FC" name="铁血战士" game_path="123 铁血战士.nes"></icon4_para>
+    <icon5_para id="FC" name="魔鬼克星 II" game_path="124 魔鬼克星 II.nes"></icon5_para>
+    <icon6_para id="FC" name="蜘蛛侠归来" game_path="125 蜘蛛侠归来.nes"></icon6_para>
+    <icon7_para id="FC" name="三国春秋-四川省(汉化版)" game_path="126 三国春秋-四川省(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="不动明王传(汉化版)" game_path="127 不动明王传(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="东风-麻将(汉化版)" game_path="128 东风-麻将(汉化版).nes"></icon9_para> 
+ </icon_page163>
+  <icon_page164>
+    <icon0_para id="FC" name="龙珠Z外传-塞亚人灭绝计划" game_path="129 龙珠Z外传-塞亚人灭绝计划.nes"></icon0_para>
+    <icon1_para id="FC" name="龙珠3-悟空传" game_path="130 龙珠3-悟空传.nes"></icon1_para>
+    <icon2_para id="FC" name="龙珠4合1" game_path="131 龙珠4合1.nes"></icon2_para>
+    <icon3_para id="FC" name="中华大仙(汉化版)" game_path="132 中华大仙(汉化版).nes"></icon3_para>
+    <icon4_para id="FC" name="中国兔宝宝(汉化版)" game_path="133 中国兔宝宝(汉化版).nes"></icon4_para>
+    <icon5_para id="FC" name="企鹅先生-冒险之旅[汉化版]" game_path="134 企鹅先生-冒险之旅[汉化版].nes"></icon5_para>
+    <icon6_para id="FC" name="假面忍者花丸(汉化版)" game_path="135 假面忍者花丸(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="兵蜂[汉化版]" game_path="136 兵蜂[汉化版].nes"></icon7_para>
+	<icon8_para id="FC" name="剑王(汉化版)" game_path="137 剑王(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="功夫[汉化版]" game_path="138 功夫[汉化版].nes"></icon9_para>
+   </icon_page164>
+  <icon_page165>
+    <icon0_para id="FC" name="加纳战机(汉化版)" game_path="139 加纳战机(汉化版).nes"></icon0_para>
+    <icon1_para id="FC" name="魔鬼总动员(汉化版)" game_path="140 魔鬼总动员(汉化版).nes"></icon1_para>
+    <icon2_para id="FC" name="阿拉丁(汉化版)" game_path="141 阿拉丁(汉化版).nes"></icon2_para>
+    <icon3_para id="FC" name="飞人战士(汉化版)" game_path="142 飞人战士(汉化版).nes"></icon3_para>
+    <icon4_para id="FC" name="阿尔戈斯战士(汉化版)" game_path="143 阿尔戈斯战士(汉化版).nes"></icon4_para>
+    <icon5_para id="FC" name="四人麻将[汉化版]" game_path="144 四人麻将[汉化版].nes"></icon5_para>
+    <icon6_para id="FC" name="义龟报恩" game_path="145 义龟报恩.nes"></icon6_para>
+    <icon7_para id="FC" name="地道战(汉化版)" game_path="146 地道战(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="中途岛1942(无敌版)" game_path="147 中途岛1942(无敌版).nes"></icon8_para>
+	<icon9_para id="FC" name="坦克风云(汉化版)" game_path="149 坦克风云(汉化版).nes"></icon9_para>
+   </icon_page165>
+  <icon_page166>
+    <icon0_para id="FC" name="城市联盟(汉化版)" game_path="150 城市联盟(汉化版).nes"></icon0_para>
+    <icon1_para id="FC" name="街霸6人(汉化版)" game_path="151 街霸6人(汉化版).nes"></icon1_para>
+    <icon2_para id="FC" name="大力水手[汉化版]" game_path="152 大力水手[汉化版].nes"></icon2_para>
+    <icon3_para id="FC" name="大话西游(汉化版)" game_path="153 大话西游(汉化版).nes"></icon3_para>
+    <icon4_para id="FC" name="吞食天地1" game_path="154 吞食天地1.nes"></icon4_para>
+    <icon5_para id="FC" name="吞食天地2" game_path="155 吞食天地2.nes"></icon5_para>
+    <icon6_para id="FC" name="叮当2" game_path="156 叮当2.nes"></icon6_para>
+    <icon7_para id="FC" name="帝国战机(汉化版)" game_path="157 帝国战机(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="幻想传说(汉化版)" game_path="158 幻想传说(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="弹珠台[汉化版]" game_path="159 弹珠台[汉化版].nes"></icon9_para> 
+ </icon_page166>
+  <icon_page167>
+    <icon0_para id="FC" name="快乐猫[汉化版]" game_path="160 快乐猫[汉化版].nes"></icon0_para>
+    <icon1_para id="FC" name="超级机器人大战A(汉化版)" game_path="161 超级机器人大战A(汉化版).nes"></icon1_para>
+    <icon2_para id="FC" name="怪物制造者1(汉化版)" game_path="162 怪物制造者1(汉化版).nes"></icon2_para>
+    <icon3_para id="FC" name="怪物制造者2(汉化版)" game_path="163 怪物制造者2(汉化版).nes"></icon3_para>
+    <icon4_para id="FC" name="战国无双(汉化版)" game_path="164 战国无双(汉化版).nes"></icon4_para>
+    <icon5_para id="FC" name="撞球(汉化版)" game_path="165 撞球(汉化版).nes"></icon5_para>
+    <icon6_para id="FC" name="救火英雄(汉化版)" game_path="166 救火英雄(汉化版).nes"></icon6_para>
+    <icon7_para id="FC" name="星际战机[汉化版]" game_path="167 星际战机[汉化版].nes"></icon7_para>
+	<icon8_para id="FC" name="兵蜂II无限命" game_path="168 兵蜂II无限命.nes"></icon8_para>
+	<icon9_para id="FC" name="兵蜂III无限命" game_path="169 兵蜂III无限命.nes"></icon9_para> 
+ </icon_page167>
+  <icon_page168>
+    <icon0_para id="FC" name="桌球[汉化版]" game_path="170 桌球[汉化版].nes"></icon0_para>
+    <icon1_para id="FC" name="锄大地(汉化版)" game_path="171 锄大地(汉化版).nes"></icon1_para>
+    <icon2_para id="FC" name="汉堡包[汉化版]" game_path="172 汉堡包[汉化版].nes"></icon2_para>
+    <icon3_para id="FC" name="赌神(汉化版)" game_path="173 赌神(汉化版).nes"></icon3_para>
+    <icon4_para id="FC" name="炸弹超人1[汉化版]" game_path="174 炸弹超人1[汉化版].nes"></icon4_para>
+    <icon5_para id="FC" name="蝙蝠侠(汉化版)" game_path="175 蝙蝠侠(汉化版).nes"></icon5_para>
+    <icon6_para id="FC" name="爱的小屋[汉化版]" game_path="176 爱的小屋[汉化版].nes"></icon6_para>
+    <icon7_para id="FC" name="牧场物语(汉化版)" game_path="177 牧场物语(汉化版).nes"></icon7_para>
+	<icon8_para id="FC" name="特库摩世界杯足球赛(汉化版)" game_path="178 特库摩世界杯足球赛(汉化版).nes"></icon8_para>
+	<icon9_para id="FC" name="荒野大镖客(汉化版)" game_path="179 荒野大镖客(汉化版).nes"></icon9_para>
+   </icon_page168>
+  <icon_page169>
+    <icon0_para id="FC" name="虎穴行动(汉化版)" game_path="180 虎穴行动(汉化版).nes"></icon0_para>
+    <icon1_para id="FC" name="米老鼠7" game_path="181 米老鼠7.nes"></icon1_para>
+    <icon2_para id="FC" name="红猪战机-无限版" game_path="182 红猪战机-无限版.nes"></icon2_para>
+    <icon3_para id="FC" name="红猪" game_path="183 红猪.nes"></icon3_para>
+    <icon4_para id="FC" name="绝岭雄风" game_path="184 绝岭雄风.nes"></icon4_para>
+    <icon5_para id="FC" name="脱狱2 (无敌)" game_path="185 脱狱2 (无敌).nes"></icon5_para>
+    <icon6_para id="FC" name="能源战士1" game_path="186 能源战士1.nes"></icon6_para>
+    <icon7_para id="FC" name="能源战士2" game_path="187 能源战士2.nes"></icon7_para>
+	<icon8_para id="FC" name="街头格斗小子(中文)" game_path="188 街头格斗小子(中文).nes"></icon8_para>
+	<icon9_para id="FC" name="街头战士2010" game_path="189 街头战士2010.nes"></icon9_para>
+   </icon_page169>
+  <icon_page170>
+    <icon0_para id="FC" name="踢王" game_path="190 踢王.nes"></icon0_para>
+    <icon1_para id="FC" name="迪兹蛋幻想冒险" game_path="191 迪兹蛋幻想冒险.nes"></icon1_para>
+    <icon2_para id="FC" name="追踪HQ" game_path="192 追踪HQ.nes"></icon2_para>
+    <icon3_para id="FC" name="铁拳 2" game_path="193 铁拳 2.nes"></icon3_para>
+    <icon4_para id="FC" name="音速小子5" game_path="194 音速小子5.nes"></icon4_para>
+    <icon5_para id="FC" name="龙行忍者" game_path="195 龙行忍者.nes"></icon5_para>
+    <icon6_para id="FC" name="龙穴历险记1" game_path="196 龙穴历险记1.nes"></icon6_para>
+    <icon7_para id="FC" name="16通道卡车" game_path="197 16通道卡车.nes"></icon7_para>
+	<icon8_para id="FC" name="B计划" game_path="198 B计划.nes"></icon8_para>
+	<icon9_para id="FC" name="足球" game_path="199 足球.nes"></icon9_para>
+   </icon_page170>
+  <icon_page171>
+    <icon0_para id="FC" name="Q版排球" game_path="200 Q版排球.nes"></icon0_para>
+    <icon1_para id="FC" name="SD英雄总决战-打倒恶之军团" game_path="201 SD英雄总决战-打倒恶之军团.nes"></icon1_para>
+    <icon2_para id="FC" name="TC冲浪设计" game_path="202 TC冲浪设计.nes"></icon2_para>
+    <icon3_para id="FC" name="丽音音乐会" game_path="203 一丽音音乐会.nes"></icon3_para>
+    <icon4_para id="FC" name="七宝奇谋 2" game_path="204 七宝奇谋 2.nes"></icon4_para>
+    <icon5_para id="FC" name="超级狼人战记" game_path="205 超级狼人战记.nes"></icon5_para>
+    <icon6_para id="FC" name="万王之王" game_path="206 万王之王.nes"></icon6_para>
+    <icon7_para id="FC" name="万美元-幻之帝王篇" game_path="207 万美元-幻之帝王篇.nes"></icon7_para>
+	<icon8_para id="FC" name="上海2" game_path="208 上海2.nes"></icon8_para>
+	<icon9_para id="FC" name="上海麻将" game_path="209 上海麻将.nes"></icon9_para>
+   </icon_page171>
+  <icon_page172>
+    <icon0_para id="FC" name="不可能完成的任务1" game_path="210 不可能完成的任务1.nes"></icon0_para>
+    <icon1_para id="FC" name="不可能完成的任务2" game_path="211 不可能完成的任务2.nes"></icon1_para>
+    <icon2_para id="FC" name="世界奔跑者的3D战争" game_path="212 世界奔跑者的3D战争.nes"></icon2_para>
+    <icon3_para id="FC" name="世界方程式大赛车" game_path="213 世界方程式大赛车.nes"></icon3_para>
+    <icon4_para id="FC" name="世界集会锦标赛" game_path="214 世界集会锦标赛.nes"></icon4_para>
+    <icon5_para id="FC" name="世纪末大富翁" game_path="215 世纪末大富翁.nes"></icon5_para>
+    <icon6_para id="FC" name="两次运球NBA" game_path="216 两次运球NBA.nes"></icon6_para>
+    <icon7_para id="FC" name="鲁邦三世" game_path="217 鲁邦三世.nes"></icon7_para>
+	<icon8_para id="FC" name="鬼屋冒险" game_path="218 鬼屋冒险.nes"></icon8_para>
+	<icon9_para id="FC" name="麋鹿与松鼠" game_path="219 麋鹿与松鼠.nes"></icon9_para>
+   </icon_page172>
+  <icon_page173>
+    <icon0_para id="FC" name="乔和麦克" game_path="220 乔和麦克.nes"></icon0_para>
+    <icon1_para id="FC" name="五子棋" game_path="221 五子棋.nes"></icon1_para>
+    <icon2_para id="FC" name="仙人掌" game_path="222 仙人掌.nes"></icon2_para>
+    <icon3_para id="FC" name="令人厌倦的野兔" game_path="223 令人厌倦的野兔.nes"></icon3_para>
+    <icon4_para id="FC" name="仿生突击队" game_path="224 仿生突击队.nes"></icon4_para>
+    <icon5_para id="FC" name="仿魔之刻" game_path="225 仿魔之刻.nes"></icon5_para>
+    <icon6_para id="FC" name="企鹅和海豹" game_path="226 企鹅和海豹.nes"></icon6_para>
+    <icon7_para id="FC" name="企鹅战争" game_path="227 企鹅战争.nes"></icon7_para>
+	<icon8_para id="FC" name="伊卡洛斯" game_path="228 伊卡洛斯.nes"></icon8_para>
+	<icon9_para id="FC" name="伊卡瑞勇士" game_path="229 伊卡瑞勇士.nes"></icon9_para> 
+ </icon_page173>
+  <icon_page174>
+    <icon0_para id="FC" name="伯格时间" game_path="230 伯格时间.nes"></icon0_para>
+    <icon1_para id="FC" name="侏罗纪公园" game_path="231 侏罗纪公园.nes"></icon1_para>
+    <icon2_para id="FC" name="侏罗纪男孩 2" game_path="232 侏罗纪男孩 2.nes"></icon2_para>
+    <icon3_para id="FC" name="侦探神宫寺三郎" game_path="233 侦探神宫寺三郎.nes"></icon3_para>
+    <icon4_para id="FC" name="侵袭鹰F-15" game_path="234 侵袭鹰F-15.nes"></icon4_para>
+    <icon5_para id="FC" name="保龄球" game_path="235 保龄球.nes"></icon5_para>
+    <icon6_para id="FC" name="信天翁2-最后的挑战" game_path="236 信天翁2-最后的挑战.nes"></icon6_para>
+    <icon7_para id="FC" name="假面超人SD" game_path="237 假面超人SD.nes"></icon7_para>
+	<icon8_para id="FC" name="偷金子" game_path="238 偷金子.nes"></icon8_para>
+	<icon9_para id="FC" name="僵尸小子2" game_path="239 僵尸小子2.nes"></icon9_para>
+   </icon_page174>
+  <icon_page175>
+    <icon0_para id="FC" name="光之神话-天使岛传说" game_path="240 光之神话-天使岛传说.nes"></icon0_para>
+    <icon1_para id="FC" name="全明星垒球运动" game_path="241 全明星垒球运动.nes"></icon1_para>
+    <icon2_para id="FC" name="八只眼" game_path="242 八只眼.nes"></icon2_para>
+    <icon3_para id="FC" name="公路的赛车" game_path="243 公路的赛车.nes"></icon3_para>
+    <icon4_para id="FC" name="公路追击16" game_path="244 公路追击16.nes"></icon4_para>
+    <icon5_para id="FC" name="公路追逐赛" game_path="245 公路追逐赛.nes"></icon5_para>
+    <icon6_para id="FC" name="六三四的剑" game_path="246 六三四的剑.nes"></icon6_para>
+    <icon7_para id="FC" name="鸟人战队" game_path="247 鸟人战队.nes"></icon7_para>
+	<icon8_para id="FC" name="麦克泰森拳击!" game_path="248 麦克泰森拳击!.nes"></icon8_para>
+	<icon9_para id="FC" name="兽王记" game_path="249 兽王记.nes"></icon9_para> 
+ </icon_page175>
+  <icon_page176>
+    <icon0_para id="FC" name="冒险小子杰克" game_path="250 冒险小子杰克.nes"></icon0_para>
+    <icon1_para id="FC" name="冒险队" game_path="251 冒险队.nes"></icon1_para>
+    <icon2_para id="FC" name="冰球" game_path="252 冰球.nes"></icon2_para>
+    <icon3_para id="FC" name="冰雪悬念" game_path="253 冰雪悬念.nes"></icon3_para>
+    <icon4_para id="FC" name="冲击波" game_path="254 冲击波.nes"></icon4_para>
+    <icon5_para id="FC" name="冲破火网2" game_path="255 冲破火网2.nes"></icon5_para>
+    <icon6_para id="FC" name="凤凰战机" game_path="256 凤凰战机.nes"></icon6_para>
+    <icon7_para id="FC" name="凯蒂猫" game_path="257 凯蒂猫.nes"></icon7_para>
+	<icon8_para id="FC" name="凯蒂猫世界" game_path="258 凯蒂猫世界.nes"></icon8_para>
+	<icon9_para id="FC" name="凯蒂猫冒险" game_path="259 凯蒂猫冒险.nes"></icon9_para>
+   </icon_page176>
+  <icon_page177>
+    <icon0_para id="FC" name="凯蒂猫方块2" game_path="260 凯蒂猫方块2.nes"></icon0_para>
+    <icon1_para id="FC" name="切斯特领域" game_path="261 切斯特领域.nes"></icon1_para>
+    <icon2_para id="FC" name="创世纪5" game_path="262 创世纪5.nes"></icon2_para>
+    <icon3_para id="FC" name="创世纪RSS" game_path="263 创世纪RSS.nes"></icon3_para>
+    <icon4_para id="FC" name="创世纪英雄" game_path="264 创世纪英雄.nes"></icon4_para>
+    <icon5_para id="FC" name="前线改版" game_path="265 前线改版.nes"></icon5_para>
+    <icon6_para id="FC" name="功夫" game_path="266 功夫.nes"></icon6_para>
+    <icon7_para id="FC" name="功夫小子" game_path="267 功夫小子.nes"></icon7_para>
+	<icon8_para id="FC" name="动作4合1" game_path="268 动作4合1.nes"></icon8_para>
+	<icon9_para id="FC" name="勇士们" game_path="269 勇士们.nes"></icon9_para>
+   </icon_page177> 
+  <icon_page178>
+    <icon0_para id="FC" name="勇者斗恶龙2" game_path="270 勇者斗恶龙2.nes"></icon0_para>
+    <icon1_para id="FC" name="化身博士与海德先生" game_path="271 化身博士与海德先生.nes"></icon1_para>
+    <icon2_para id="FC" name="北极" game_path="272 北极.nes"></icon2_para>
+    <icon3_para id="FC" name="十码之战" game_path="273 十码之战.nes"></icon3_para>
+    <icon4_para id="FC" name="千足虫" game_path="274 千足虫.nes"></icon4_para>
+    <icon5_para id="FC" name="南极企鹅" game_path="275 南极企鹅.nes"></icon5_para>
+    <icon6_para id="FC" name="博科苏卡战争" game_path="276 博科苏卡战争.nes"></icon6_para>
+    <icon7_para id="FC" name="占士邦007-加强版" game_path="277 占士邦007-加强版.nes"></icon7_para>
+	<icon8_para id="FC" name="龙的城堡" game_path="278 龙的城堡.nes"></icon8_para>
+	<icon9_para id="FC" name="印度之旅" game_path="279 印度之旅.nes"></icon9_para> 
+ </icon_page178> 
+  <icon_page179>
+    <icon0_para id="FC" name="危险-25周年纪念版" game_path="280 危险-25周年纪念版.nes"></icon0_para>
+    <icon1_para id="FC" name="原始人运动会" game_path="281 原始人运动会.nes"></icon1_para>
+    <icon2_para id="FC" name="双冒险" game_path="282 双冒险.nes"></icon2_para>
+    <icon3_para id="FC" name="双蛇城" game_path="283 双蛇城.nes"></icon3_para>
+    <icon4_para id="FC" name="双鹰隐身" game_path="284 双鹰隐身.nes"></icon4_para>
+    <icon5_para id="FC" name="反斗智多星" game_path="285 反斗智多星.nes"></icon5_para>
+    <icon6_para id="FC" name="反重力战士" game_path="286 反重力战士.nes"></icon6_para>
+    <icon7_para id="FC" name="变形坦克" game_path="287 变形坦克.nes"></icon7_para>
+	<icon8_para id="FC" name="变形战机" game_path="288 变形战机.nes"></icon8_para>
+	<icon9_para id="FC" name="变形战机Z" game_path="289 变形战机Z.nes"></icon9_para> 
+ </icon_page179> 
+  <icon_page180>
+    <icon0_para id="FC" name="变色恐龙" game_path="290 变色恐龙.nes"></icon0_para>
+    <icon1_para id="FC" name="变身战士" game_path="291 变身战士.nes"></icon1_para>
+    <icon2_para id="FC" name="魔鬼地道" game_path="292 魔鬼地道.nes"></icon2_para>
+    <icon3_para id="FC" name="魔女小红帽" game_path="293 魔女小红帽.nes"></icon3_para>
+    <icon4_para id="FC" name="魔幻珠宝" game_path="294 魔幻珠宝.nes"></icon4_para>
+    <icon5_para id="FC" name="台湾麻将" game_path="295 台湾麻将.nes"></icon5_para>
+    <icon6_para id="FC" name="台球 lunar pool" game_path="296 台球 lunar pool.nes"></icon6_para>
+    <icon7_para id="FC" name="麦当劳小子" game_path="297 麦当劳小子.nes"></icon7_para>
+	<icon8_para id="FC" name="合金装备" game_path="298 合金装备.nes"></icon8_para>
+	<icon9_para id="FC" name="吉米克" game_path="299 吉米克.nes"></icon9_para>
+   </icon_page180> 
+  <icon_page181>
+    <icon0_para id="FC" name="哈德森之鹰" game_path="300 哈德森之鹰.nes"></icon0_para>
+    <icon1_para id="FC" name="龙牙" game_path="301 龙牙.nes"></icon1_para>
+    <icon2_para id="FC" name="龙之战" game_path="302 龙之战.nes"></icon2_para>
+    <icon3_para id="FC" name="哥伦布" game_path="303 哥伦布.nes"></icon3_para>
+    <icon4_para id="FC" name="唐老鸭史努比运动会" game_path="304 唐老鸭史努比运动会.nes"></icon4_para>
+    <icon5_para id="FC" name="唐老鸭的世界1" game_path="305 唐老鸭的世界1.nes"></icon5_para>
+    <icon6_para id="FC" name="唐老鸭的世界2" game_path="306 唐老鸭的世界2.nes"></icon6_para>
+    <icon7_para id="FC" name="嘉蒂外传" game_path="307 嘉蒂外传.nes"></icon7_para>
+	<icon8_para id="FC" name="鼹鼠的故事" game_path="308 鼹鼠的故事.nes"></icon8_para>
+	<icon9_para id="FC" name="四人麻将2" game_path="309 四人麻将2.nes"></icon9_para>
+   </icon_page181> 
+  <icon_page182>
+    <icon0_para id="FC" name="四季坦克" game_path="310 四季坦克.nes"></icon0_para>
+    <icon1_para id="FC" name="回到未来 II + III" game_path="311 回到未来 II + III.nes"></icon1_para>
+    <icon2_para id="FC" name="回到未来" game_path="312 回到未来.nes"></icon2_para>
+    <icon3_para id="FC" name="回归未来" game_path="313 回归未来.nes"></icon3_para>
+    <icon4_para id="FC" name="围棋" game_path="314 围棋.nes"></icon4_para>
+    <icon5_para id="FC" name="围棋指南'91" game_path="315 围棋指南'91.nes"></icon5_para>
+    <icon6_para id="FC" name="围棋指南'92" game_path="316 围棋指南'92.nes"></icon6_para>
+    <icon7_para id="FC" name="围棋指南'93" game_path="317 围棋指南'93.nes"></icon7_para>
+	<icon8_para id="FC" name="围棋指南'94" game_path="318 围棋指南'94.nes"></icon8_para>
+	<icon9_para id="FC" name="围棋指南" game_path="319 围棋指南.nes"></icon9_para> 
+ </icon_page182> 
+  <icon_page183>
+    <icon0_para id="FC" name="国王骑士" game_path="320 国王骑士.nes"></icon0_para>
+    <icon1_para id="FC" name="国际象棋" game_path="321 国际象棋.nes"></icon1_para>
+    <icon2_para id="FC" name="国际象棋大师" game_path="322 国际象棋大师.nes"></icon2_para>
+    <icon3_para id="FC" name="国际餐厅-金钱游戏" game_path="323 国际餐厅-金钱游戏.nes"></icon3_para>
+    <icon4_para id="FC" name="图宾" game_path="324 图宾.nes"></icon4_para>
+    <icon5_para id="FC" name="圆圆小天使" game_path="325 圆圆小天使.nes"></icon5_para>
+    <icon6_para id="FC" name="土地顶峰" game_path="326 土地顶峰.nes"></icon6_para>
+    <icon7_para id="FC" name="圣经冒险" game_path="327 圣经冒险.nes"></icon7_para>
+	<icon8_para id="FC" name="圣铃传说" game_path="328 圣铃传说.nes"></icon8_para>
+	<icon9_para id="FC" name="圣饥魔2-恶魔的逆袭" game_path="329 圣饥魔2-恶魔的逆袭.nes"></icon9_para> 
+ </icon_page183> 
+  <icon_page184>
+    <icon0_para id="FC" name="地底探险" game_path="330 地底探险.nes"></icon0_para>
+    <icon1_para id="FC" name="地底站空" game_path="331 地底站空.nes"></icon1_para>
+    <icon2_para id="FC" name="地狱战士" game_path="332 地狱战士.nes"></icon2_para>
+    <icon3_para id="FC" name="地狱极乐丸" game_path="333 地狱极乐丸.nes"></icon3_para>
+    <icon4_para id="FC" name="地球超人-无敌版" game_path="334 地球超人-无敌版.nes"></icon4_para>
+    <icon5_para id="FC" name="地铁交叉" game_path="335 地铁交叉.nes"></icon5_para>
+    <icon6_para id="FC" name="坤岛" game_path="336 坤岛.nes"></icon6_para>
+    <icon7_para id="FC" name="坦克先锋" game_path="337 坦克先锋.nes"></icon7_para>
+	<icon8_para id="FC" name="埃及" game_path="338 埃及.nes"></icon8_para>
+	<icon9_para id="FC" name="城堡冒险" game_path="339 城堡冒险.nes"></icon9_para> 
+ </icon_page184> 
+  <icon_page185>
+    <icon0_para id="FC" name="城堡探险" game_path="340 城堡探险.nes"></icon0_para>
+    <icon1_para id="FC" name="复活迷宫" game_path="341 复活迷宫.nes"></icon1_para>
+    <icon2_para id="FC" name="复活魔龙(龙之卷轴)" game_path="342 复活魔龙(龙之卷轴).nes"></icon2_para>
+    <icon3_para id="FC" name="外星庇护下的银河系" game_path="343 外星庇护下的银河系.nes"></icon3_para>
+    <icon4_para id="FC" name="外星战将" game_path="344 外星战将.nes"></icon4_para>
+    <icon5_para id="FC" name="多鲁亚加塔" game_path="345 多鲁亚加塔.nes"></icon5_para>
+    <icon6_para id="FC" name="大力工头阿源" game_path="346 大力工头阿源.nes"></icon6_para>
+    <icon7_para id="FC" name="大坦克" game_path="347 大坦克.nes"></icon7_para>
+	<icon8_para id="FC" name="大尉行星" game_path="348 大尉行星.nes"></icon8_para>
+	<icon9_para id="FC" name="大师和酒鬼" game_path="349 大师和酒鬼.nes"></icon9_para> 
+ </icon_page185> 
+  <icon_page186>
+    <icon0_para id="FC" name="大战拉斯维佳斯" game_path="350 大战拉斯维佳斯.nes"></icon0_para>
+    <icon1_para id="FC" name="大沃尔历险" game_path="351 大沃尔历险.nes"></icon1_para>
+    <icon2_para id="FC" name="大盗伍佑卫门之旅" game_path="352 大盗伍佑卫门之旅.nes"></icon2_para>
+    <icon3_para id="FC" name="大眼蛙方块" game_path="353 大眼蛙方块.nes"></icon3_para>
+    <icon4_para id="FC" name="大石头冲撞" game_path="354 大石头冲撞.nes"></icon4_para>
+    <icon5_para id="FC" name="大空翼(足球小将)" game_path="355 大空翼(足球小将).nes"></icon5_para>
+    <icon6_para id="FC" name="大金刚jr算术" game_path="356 大金刚jr算术.nes"></icon6_para>
+    <icon7_para id="FC" name="大鼻子原始人" game_path="357 大鼻子原始人.nes"></icon7_para>
+	<icon8_para id="FC" name="天使之翼" game_path="358 天使之翼.nes"></icon8_para>
+	<icon9_para id="FC" name="天使之翼1" game_path="359 天使之翼1.nes"></icon9_para>
+   </icon_page186> 
+  <icon_page187>
+    <icon0_para id="FC" name="天使之翼2代" game_path="360 天使之翼2代.nes"></icon0_para>
+    <icon1_para id="FC" name="天才厨师" game_path="361 天才厨师.nes"></icon1_para>
+    <icon2_para id="FC" name="天狗吃月亮" game_path="362 天狗吃月亮.nes"></icon2_para>
+    <icon3_para id="FC" name="天空小子" game_path="363 天空小子.nes"></icon3_para>
+    <icon4_para id="FC" name="天空鲨鱼" game_path="364 天空鲨鱼.nes"></icon4_para>
+    <icon5_para id="FC" name="太极滑板大挑战 II" game_path="365 太极滑板大挑战 II.nes"></icon5_para>
+    <icon6_para id="FC" name="太空女超人" game_path="366 太空女超人.nes"></icon6_para>
+    <icon7_para id="FC" name="太空直升机" game_path="367 太空直升机.nes"></icon7_para>
+	<icon8_para id="FC" name="太空要塞" game_path="368 太空要塞.nes"></icon8_para>
+	<icon9_para id="FC" name="太空青蛙" game_path="369 太空青蛙.nes"></icon9_para> 
+ </icon_page187> 
+  <icon_page188>
+    <icon0_para id="FC" name="太阳的勇者" game_path="370 太阳的勇者.nes"></icon0_para>
+    <icon1_para id="FC" name="太阳系战机" game_path="371 太阳系战机.nes"></icon1_para>
+    <icon2_para id="FC" name="太阳能喷射飞船" game_path="372 太阳能喷射飞船.nes"></icon2_para>
+    <icon3_para id="FC" name="太阳超人" game_path="373 太阳超人.nes"></icon3_para>
+    <icon4_para id="FC" name="失落的珍妮" game_path="374 失落的珍妮.nes"></icon4_para>
+    <icon5_para id="FC" name="头脑战舰" game_path="375 头脑战舰.nes"></icon5_para>
+    <icon6_para id="FC" name="奇天烈大百科" game_path="376 奇天烈大百科.nes"></icon6_para>
+    <icon7_para id="FC" name="奇迹超人" game_path="377 奇迹超人.nes"></icon7_para>
+	<icon8_para id="FC" name="奥特曼总决战" game_path="378 奥特曼总决战.nes"></icon8_para>
+	<icon9_para id="FC" name="女超人劳拉" game_path="379 女超人劳拉.nes"></icon9_para>
+   </icon_page188> 
+  <icon_page189>
+    <icon0_para id="FC" name="妖精物语" game_path="380 妖精物语.nes"></icon0_para>
+    <icon1_para id="FC" name="威利熊" game_path="381 威利熊.nes"></icon1_para>
+    <icon2_para id="FC" name="娱乐3合1" game_path="382 娱乐3合1.nes"></icon2_para>
+    <icon3_para id="FC" name="婚礼" game_path="383 婚礼.nes"></icon3_para>
+    <icon4_para id="FC" name="孔雀王" game_path="384 孔雀王.nes"></icon4_para>
+    <icon5_para id="FC" name="孔雀王2" game_path="385 孔雀王2.nes"></icon5_para>
+    <icon6_para id="FC" name="宇宙大射击" game_path="386 宇宙大射击.nes"></icon6_para>
+    <icon7_para id="FC" name="宇宙巡航舰" game_path="387 宇宙巡航舰.nes"></icon7_para>
+	<icon8_para id="FC" name="宇宙精灵" game_path="388 宇宙精灵.nes"></icon8_para>
+	<icon9_para id="FC" name="守卫者II" game_path="389 守卫者II.nes"></icon9_para>
+   </icon_page189> 
+  <icon_page190>
+    <icon0_para id="FC" name="守护者传奇" game_path="390 守护者传奇.nes"></icon0_para>
+    <icon1_para id="FC" name="完美匹配" game_path="391 完美匹配.nes"></icon1_para>
+    <icon2_para id="FC" name="实验人冒险" game_path="392 实验人冒险.nes"></icon2_para>
+    <icon3_para id="FC" name="家庭弹珠" game_path="393 家庭弹珠.nes"></icon3_para>
+    <icon4_para id="FC" name="家庭打砖块" game_path="394 家庭打砖块.nes"></icon4_para>
+    <icon5_para id="FC" name="将军" game_path="395 将军.nes"></icon5_para>
+    <icon6_para id="FC" name="将棋2" game_path="396 将棋2.nes"></icon6_para>
+    <icon7_para id="FC" name="将棋3" game_path="397 将棋3.nes"></icon7_para>
+	<icon8_para id="FC" name="小丑王子历险记" game_path="398 小丑王子历险记.nes"></icon8_para>
+	<icon9_para id="FC" name="小白兔大迷路" game_path="399 小白兔大迷路.nes"></icon9_para>
+   </icon_page190> 
+  <icon_page191>
+    <icon0_para id="FC" name="黑街风云" game_path="400 黑街风云.nes"></icon0_para>
+    <icon1_para id="FC" name="小美人鱼" game_path="401 小美人鱼.nes"></icon1_para>
+    <icon2_para id="FC" name="小蛋大冒险" game_path="402 小蛋大冒险.nes"></icon2_para>
+    <icon3_para id="FC" name="小超人2" game_path="403 小超人2.nes"></icon3_para>
+    <icon4_para id="FC" name="小鬼当家2" game_path="404 小鬼当家2.nes"></icon4_para>
+    <icon5_para id="FC" name="小鬼精灵" game_path="405 小鬼精灵.nes"></icon5_para>
+    <icon6_para id="FC" name="小魔怪1-新种诞生" game_path="406 小魔怪1-新种诞生.nes"></icon6_para>
+    <icon7_para id="FC" name="小魔怪2" game_path="407 小魔怪2.nes"></icon7_para>
+	<icon8_para id="FC" name="小鸡猕猴桃" game_path="408 小鸡猕猴桃.nes"></icon8_para>
+	<icon9_para id="FC" name="小鸭运蛋" game_path="409 小鸭运蛋.nes"></icon9_para> 
+ </icon_page191> 
+  <icon_page192>
+    <icon0_para id="FC" name="少年梦冒险" game_path="410 少年梦冒险.nes"></icon0_para>
+    <icon1_para id="FC" name="少年西贝大冒险" game_path="411 少年西贝大冒险.nes"></icon1_para>
+    <icon2_para id="FC" name="屠龙记 II-闇之封印" game_path="412 屠龙记 II-闇之封印.nes"></icon2_para>
+    <icon3_para id="FC" name="屠龙记4" game_path="413 屠龙记4.nes"></icon3_para>
+    <icon4_para id="FC" name="巫师与武士2" game_path="414 巫师与武士2.nes"></icon4_para>
+    <icon5_para id="FC" name="巫师与武士3" game_path="415 巫师与武士3.nes"></icon5_para>
+    <icon6_para id="FC" name="巴塞罗那奥运会92" game_path="416 巴塞罗那奥运会92.nes"></icon6_para>
+    <icon7_para id="FC" name="巴斯图和泰勒" game_path="417 巴斯图和泰勒.nes"></icon7_para>
+	<icon8_para id="FC" name="巴特龙战机" game_path="418 巴特龙战机.nes"></icon8_para>
+	<icon9_para id="FC" name="巴鲁巴人传说" game_path="419 巴鲁巴人传说.nes"></icon9_para>
+   </icon_page192> 
+  <icon_page193>
+    <icon0_para id="FC" name="希特勒的复活" game_path="420 希特勒的复活.nes"></icon0_para>
+    <icon1_para id="FC" name="帽子方块" game_path="421 帽子方块.nes"></icon1_para>
+    <icon2_para id="FC" name="平成天才学校" game_path="422 平成天才学校.nes"></icon2_para>
+    <icon3_para id="FC" name="平行世界" game_path="423 平行世界.nes"></icon3_para>
+    <icon4_para id="FC" name="幸运之轮" game_path="424 幸运之轮.nes"></icon4_para>
+    <icon5_para id="FC" name="开车去打怪" game_path="425 开车去打怪.nes"></icon5_para>
+    <icon6_para id="FC" name="异域诛魂" game_path="426 异域诛魂.nes"></icon6_para>
+    <icon7_para id="FC" name="异形3" game_path="427 异形3.nes"></icon7_para>
+	<icon8_para id="FC" name="异形特攻队" game_path="428 异形特攻队.nes"></icon8_para>
+	<icon9_para id="FC" name="弹力足球" game_path="429 弹力足球.nes"></icon9_para>
+   </icon_page193> 
+  <icon_page194>
+    <icon0_para id="SFC" name="SD英雄之挑战4" game_path="253 SD英雄之挑战4.smc"></icon0_para>
+    <icon1_para id="FC" name="彩虹岛" game_path="431 彩虹岛.nes"></icon1_para>
+    <icon2_para id="FC" name="影子传说" game_path="432 影子传说.nes"></icon2_para>
+    <icon3_para id="FC" name="彻斯特之战" game_path="433 彻斯特之战.nes"></icon3_para>
+    <icon4_para id="FC" name="彼得潘与海盗" game_path="434 彼得潘与海盗.nes"></icon4_para>
+    <icon5_para id="FC" name="忍Shinobi" game_path="435 忍Shinobi.nes"></icon5_para>
+    <icon6_para id="FC" name="忍者2" game_path="436 忍者2.nes"></icon6_para>
+    <icon7_para id="FC" name="忍者君阿-修罗之章" game_path="437 忍者君阿-修罗之章.nes"></icon7_para>
+	<icon8_para id="FC" name="忍者哈得利" game_path="438 忍者哈得利.nes"></icon8_para>
+	<icon9_para id="FC" name="忍者蛙" game_path="439 忍者蛙.nes"></icon9_para> 
+ </icon_page194> 
+  <icon_page195>
+    <icon0_para id="FC" name="忧郁兄弟" game_path="440 忧郁兄弟.nes"></icon0_para>
+    <icon1_para id="FC" name="快乐猫世界" game_path="441 快乐猫世界.nes"></icon1_para>
+    <icon2_para id="FC" name="快乐道场" game_path="442 快乐道场.nes"></icon2_para>
+    <icon3_para id="FC" name="快杰对决3" game_path="443 快杰对决3.nes"></icon3_para>
+    <icon4_para id="FC" name="快杰洋枪丸2" game_path="444 快杰洋枪丸2.nes"></icon4_para>
+    <icon5_para id="FC" name="忽然君" game_path="445 忽然君.nes"></icon5_para>
+    <icon6_para id="FC" name="怒2" game_path="446 怒2.nes"></icon6_para>
+    <icon7_para id="FC" name="怒2无敌前进" game_path="447 怒2无敌前进.nes"></icon7_para>
+	<icon8_para id="FC" name="怪物聚会" game_path="448 怪物聚会.nes"></icon8_para>
+	<icon9_para id="FC" name="怪鸭历险记" game_path="449 怪鸭历险记.nes"></icon9_para> 
+ </icon_page195> 
+  <icon_page196>
+    <icon0_para id="FC" name="恐龙填色" game_path="450 恐龙填色.nes"></icon0_para>
+    <icon1_para id="FC" name="恐龙战士" game_path="451 恐龙战士.nes"></icon1_para>
+    <icon2_para id="FC" name="恶魔夜袭" game_path="452 恶魔夜袭.nes"></icon2_para>
+    <icon3_para id="FC" name="恶魔领袖-电击作战" game_path="453 恶魔领袖-电击作战.nes"></icon3_para>
+    <icon4_para id="FC" name="惊天动地" game_path="454 惊天动地.nes"></icon4_para>
+    <icon5_para id="FC" name="惩治者" game_path="455 惩治者.nes"></icon5_para>
+    <icon6_para id="FC" name="愤怒的小鸟" game_path="456 愤怒的小鸟.nes"></icon6_para>
+    <icon7_para id="FC" name="愤怒的黑忍者" game_path="457 愤怒的黑忍者.nes"></icon7_para>
+	<icon8_para id="FC" name="战争风暴" game_path="458 战争风暴.nes"></icon8_para>
+	<icon9_para id="FC" name="战斗坦克" game_path="459 战斗坦克.nes"></icon9_para> 
+ </icon_page196> 
+  <icon_page197>
+    <icon0_para id="FC" name="战斗方程式赛车" game_path="460 战斗方程式赛车.nes"></icon0_para>
+    <icon1_para id="FC" name="战斗机" game_path="461 战斗机.nes"></icon1_para>
+    <icon2_para id="FC" name="战斗舰队" game_path="462 战斗舰队.nes"></icon2_para>
+    <icon3_para id="FC" name="所罗门之匙" game_path="463 所罗门之匙.nes"></icon3_para>
+    <icon4_para id="FC" name="扑克4合1" game_path="464 扑克4合1.nes"></icon4_para>
+    <icon5_para id="FC" name="扑克5合1" game_path="465 扑克5合1.nes"></icon5_para>
+    <icon6_para id="FC" name="扑克方块" game_path="466 扑克方块.nes"></icon6_para>
+    <icon7_para id="FC" name="打砖块" game_path="467 打砖块.nes"></icon7_para>
+	<icon8_para id="FC" name="打砖块2" game_path="468 打砖块2.nes"></icon8_para>
+	<icon9_para id="FC" name="报童" game_path="469 报童.nes"></icon9_para>
+   </icon_page197> 
+  <icon_page198>
+    <icon0_para id="FC" name="报童2" game_path="470 报童2.nes"></icon0_para>
+    <icon1_para id="FC" name="拯救公主大作战" game_path="471 拯救公主大作战.nes"></icon1_para>
+    <icon2_para id="FC" name="拯救爱心" game_path="472 拯救爱心.nes"></icon2_para>
+    <icon3_para id="FC" name="拳击" game_path="473 拳击.nes"></icon3_para>
+    <icon4_para id="FC" name="挑战巨龙" game_path="474 挑战巨龙.nes"></icon4_para>
+    <icon5_para id="FC" name="挖地雷" game_path="475 挖地雷.nes"></icon5_para>
+    <icon6_para id="FC" name="捉鬼敢死队" game_path="476 捉鬼敢死队.nes"></icon6_para>
+    <icon7_para id="FC" name="捍卫者的城市" game_path="477 捍卫者的城市.nes"></icon7_para>
+	<icon8_para id="FC" name="排球 volley ball" game_path="478 排球 volley ball.nes"></icon8_para>
+	<icon9_para id="FC" name="排球" game_path="479 排球.nes"></icon9_para>
+   </icon_page198> 
+  <icon_page199>
+    <icon0_para id="FC" name="推方块" game_path="480 推方块.nes"></icon0_para>
+    <icon1_para id="FC" name="摔角" game_path="481 摔角.nes"></icon1_para>
+    <icon2_para id="FC" name="摩托车" game_path="482 摩托车.nes"></icon2_para>
+    <icon3_para id="FC" name="摩托车手" game_path="483 摩托车手.nes"></icon3_para>
+    <icon4_para id="FC" name="摩登原始人" game_path="484 摩登原始人.nes"></icon4_para>
+    <icon5_para id="FC" name="摩登家庭" game_path="485 摩登家庭.nes"></icon5_para>
+    <icon6_para id="FC" name="摩艾君." game_path="486 摩艾君.nes"></icon6_para>
+    <icon7_para id="FC" name="攻击动物学园" game_path="487 攻击动物学园.nes"></icon7_para>
+	<icon8_para id="FC" name="救援队长" game_path="488 救援队长.nes"></icon8_para>
+	<icon9_para id="FC" name="斗者的挽歌" game_path="489 斗者的挽歌.nes"></icon9_para>
+   </icon_page199> 
+  <icon_page200>
+    <icon0_para id="FC" name="斗魂传说" game_path="490 斗魂传说.nes"></icon0_para>
+    <icon1_para id="FC" name="斯坦利" game_path="491 斯坦利.nes"></icon1_para>
+    <icon2_para id="FC" name="斯巴达人" game_path="492 斯巴达人.nes"></icon2_para>
+    <icon3_para id="FC" name="新人类" game_path="493 新人类.nes"></icon3_para>
+    <icon4_para id="FC" name="新种诞生" game_path="494 新种诞生.nes"></icon4_para>
+    <icon5_para id="FC" name="新西兰的故事" game_path="495 新西兰的故事.nes"></icon5_para>
+    <icon6_para id="FC" name="方块战机" game_path="496 方块战机.nes"></icon6_para>
+    <icon7_para id="FC" name="无尽的任务" game_path="497 无尽的任务.nes"></icon7_para>
+	<icon8_para id="FC" name="旱冰赛" game_path="498 旱冰赛.nes"></icon8_para>
+	<icon9_para id="FC" name="时空勇士" game_path="499 时空勇士.nes"></icon9_para>
+   </icon_page200>
+</strings_resources>
