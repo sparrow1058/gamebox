@@ -110,15 +110,15 @@
 #define MENU_ICON_ZOOM_W    (GAME_PINT_W / 5)
 #define MENU_ICON_ZOOM_H    (GAME_PINT_H / 5)
 
-#define GAME_ICON_PINT_X    100
-#define GAME_ICON_PINT_Y    200
-#define GAME_ICON_PINT_W    160
-#define GAME_ICON_PINT_H    90
+#define GAME_ICON_PINT_X    -50
+#define GAME_ICON_PINT_Y    100
+#define GAME_ICON_PINT_W    224
+#define GAME_ICON_PINT_H    320
 #define GAME_ICON_SPAC      220
-#define GAME_ICON_ZOOM_W    (GAME_ICON_PINT_W / 5)
-#define GAME_ICON_ZOOM_H    (GAME_ICON_PINT_H / 5)
+#define GAME_ICON_ZOOM_W    (GAME_ICON_PINT_W / 8)
+#define GAME_ICON_ZOOM_H    (GAME_ICON_PINT_H / 8)
 
-#define GAME_ICON_NUM_PERPAGE  4
+#define GAME_ICON_NUM_PERPAGE  6
 
 #define DESKTOP_PAGE_DOT_X    (LCD_W / 2)
 #define DESKTOP_PAGE_DOT_Y    (GAME_PINT_Y - 10)
@@ -227,7 +227,14 @@
 #define VIDEO_PLAYSTATUS_PINT_H    16
 #define VIDEO_PLAYSTATUS_PINT_X    (VIDEO_PROGRESSBAR_PINT_X)
 #define VIDEO_PLAYSTATUS_PINT_Y    (VIDEO_PROGRESSBAR_PINT_Y - VIDEO_PLAYSTATUS_PINT_H - 8)
-#endif
 
+#define GAME_TYPE_PINT_X					2
+#define GAME_TYPE_PINT_Y					10
+#define GAME_TYPE_PINT_W				120
+#define GAME_TYPE_PINT_H				50
+
+
+
+#endif
 
 #endif /* UI_1024X600_H_ */

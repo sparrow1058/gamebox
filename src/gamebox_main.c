@@ -129,7 +129,7 @@ int loadstringres(void)
             logfont = logfont_k;
             break;
     }
-    printf("leaf logfont 1\n");
+    printf("leaf logfont %s \n",langFile);
     fp = fopen(langFile, "r");
     if (fp == NULL) {
         printf("open file %s failed: %s\n", langFile, strerror(errno));
@@ -140,16 +140,17 @@ int loadstringres(void)
     fgetc(fp);
     fgetc(fp);
 
+
     while ((__getline(&res_str[pos], &len, fp)) != -1) {
         //printf("load line Label %d------%s\n", pos, res_str[pos]);
         pos++;
         if (pos >= RES_STR_MAX)
             break;
     }
-
+//    printf("leaf logfont2 \n");
     fclose(fp);
-    updatesysfont(logfont);
-    printf("leaf logfont2 \n");
+   //updatesysfont(logfont);
+
 }
 
 void unloadstringres(void)
@@ -201,7 +202,7 @@ int main_loadres(void)
             return -1;
     }
 
-    snprintf(img, sizeof(img), "%sbackground.jpg", respath);
+    snprintf(img, sizeof(img), "%sbackground.png", respath);
     if (LoadBitmap(HDC_SCREEN, &background_bmap, img))
         return -1;
 
@@ -264,14 +265,14 @@ static LRESULT MainWinProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam
             EnableScreenAutoOff();
             main_loadres();
             logfont_cej = CreateLogFont("ttf", "msyh", "UTF-8", 'k', 'r', 'n', 'c', 'n', 'n', TTF_FONT_SIZE, 0);
-          //  logfont_k = CreateLogFont("ttf", "msn", "UTF-8", 'k', 'r', 'n', 'c', 'n', 'n', TTF_FONT_SIZE, 0);
-        //    loadstringres();
+            logfont_k = CreateLogFont("ttf", "msn", "UTF-8", 'k', 'r', 'n', 'c', 'n', 'n', TTF_FONT_SIZE, 0);
+           loadstringres();
             SetTimer(hWnd, _ID_TIMER_MAIN, TIMER_MAIN);
            // batt_update();
         //    InvalidateRect(hWnd, &msg_rcBg, TRUE);
          //   RegisterMainWindow(hWnd);
             mhWnd = hWnd;
-            creat_desktop_dialog(hWnd);
+            create_desktop_dialog(hWnd);
         break;
         case MSG_TIMER:
             if (wParam == _ID_TIMER_MAIN) {

@@ -5,10 +5,8 @@
  *      Author: Administrator
  */
 
-#ifndef COMMON_H_
-#define COMMON_H_
-
-
+#ifndef MYDEF_H
+#define MYDEF_H
 #define LRESULT	int
 #define MSG_MAINWIN_KEYDOWN         0x001B
 #define MSG_MAINWIN_KEYUP           0x001C
@@ -32,5 +30,20 @@ MG_EXPORT void GUIAPI DisableKeyMessage(void);
 #define KEY_RIGHT_FUNC    SCANCODE_CURSORBLOCKRIGHT
 #define KEY_EXIT_FUNC     SCANCODE_B
 #define KEY_ENTER_FUNC    SCANCODE_A
+typedef struct GameInfo
+{
+	int id;
+	int type;
+	int cnt;
+	char *name;
+	char *res;
+}gameInfo;
+typedef struct GameList
+{
+	gameInfo  curGame;
+    struct GameList * preGame;
+    struct GameList *nextGame;
+}gameList,* pGameList;
+
 
 #endif /* COMMON_H_ */

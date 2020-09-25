@@ -55,12 +55,12 @@ static int loadres(void)
 
     for (i = 0; i < MENU_ICON_NUM; i++) {
         /* load game bmp */
-        snprintf(img, sizeof(img), "%sgame%d.png", respath, i);
+        snprintf(img, sizeof(img), "%sfavs%d.png", respath, i);
         //printf("%s\n", img);
         if (LoadBitmap(HDC_SCREEN, &menu_bmap[0][i], img))
             return -1;
 
-        snprintf(img, sizeof(img), "%smusic%d.png", respath, i);
+        snprintf(img, sizeof(img), "%sgame%d.png", respath, i);
         //printf("%s\n", img);
         if (LoadBitmap(HDC_SCREEN, &menu_bmap[1][i], img))
             return -1;
@@ -70,12 +70,12 @@ static int loadres(void)
         if (LoadBitmap(HDC_SCREEN, &menu_bmap[2][i], img))
             return -1;
 
-        snprintf(img, sizeof(img), "%svideo%d.png", respath, i);
+        snprintf(img, sizeof(img), "%smusic%d.png", respath, i);
         //printf("%s\n", img);
         if (LoadBitmap(HDC_SCREEN, &menu_bmap[3][i], img))
             return -1;
 
-        snprintf(img, sizeof(img), "%sfolde%d.png", respath, i);
+        snprintf(img, sizeof(img), "%svideo%d.png", respath, i);
         //printf("%s\n", img);
         if (LoadBitmap(HDC_SCREEN, &menu_bmap[4][i], img))
             return -1;
@@ -87,10 +87,13 @@ static int loadres(void)
     }
     for (j = 0; j < GAME_NUM; j++) {
         for (i = 0; i < GAME_ICON_NUM; i++) {
-            snprintf(img, sizeof(img), "%sgame_%d_%d.png", respath, j, i);
+        	snprintf(img, sizeof(img), "%sfav%d.png", respath, j);
+         //   snprintf(img, sizeof(img), "%sgame_%d_%d.png", respath, j, i);
             //printf("%s\n", img);
             if (LoadBitmap(HDC_SCREEN, &game_bmap[j][i], img))
                 return -1;
+       //     PivotScaledBitmapFlip(HDC_SCREEN,&game_bmap[j][i],)
+
         }
     }
 
@@ -132,7 +135,6 @@ static LRESULT desktop_dialog_proc(HWND hWnd,UINT message,WPARAM wParam,LPARAM l
 
     case MSG_PAINT:
          pixle = 0xff000000;
-         printf("printfasfasf");
         hdc = BeginPaint(hWnd);
         SelectFont(hdc, logfont);
         old_brush = SetBrushColor(hdc, pixle);
@@ -147,23 +149,31 @@ static LRESULT desktop_dialog_proc(HWND hWnd,UINT message,WPARAM wParam,LPARAM l
 
             if (((game_sel / GAME_ICON_NUM_PERPAGE) * GAME_ICON_NUM_PERPAGE + i) >= GAME_NUM)
                 break;
-            if ((i == game_sel % GAME_ICON_NUM_PERPAGE) && (line_sel == 0))
-                FillBoxWithBitmap(hdc, GAME_ICON_PINT_X + GAME_ICON_SPAC * i - (GAME_ICON_ZOOM_W / 2),
-                                       GAME_ICON_PINT_Y - GAME_ICON_ZOOM_H, GAME_ICON_PINT_W + GAME_ICON_ZOOM_W,
-                                       GAME_ICON_PINT_H + GAME_ICON_ZOOM_H, &game_bmap[(game_sel / GAME_ICON_NUM_PERPAGE) * GAME_ICON_NUM_PERPAGE + i][0]);
-            else
                 FillBoxWithBitmap(hdc, GAME_ICON_PINT_X + GAME_ICON_SPAC * i,
                                        GAME_ICON_PINT_Y, GAME_ICON_PINT_W,
                                        GAME_ICON_PINT_H, &game_bmap[(game_sel / GAME_ICON_NUM_PERPAGE) * GAME_ICON_NUM_PERPAGE + i][0]);
-           msg_rcName.left = GAME_ICON_PINT_X + GAME_ICON_SPAC * i;
-           msg_rcName.top = GAME_ICON_PINT_Y + GAME_ICON_PINT_H + 20;
-           msg_rcName.right = msg_rcName.left + GAME_ICON_PINT_W;
-           msg_rcName.bottom = msg_rcName.top + 24;
-           SetBkColor(hdc, COLOR_transparent);
+            msg_rcName.left = GAME_ICON_PINT_X + GAME_ICON_SPAC * i;
+            msg_rcName.top = GAME_ICON_PINT_Y + GAME_ICON_PINT_H + 20;
+            msg_rcName.right = msg_rcName.left + GAME_ICON_PINT_W;
+            msg_rcName.bottom = msg_rcName.top + 24;
+            SetBkColor(hdc, COLOR_transparent);
            SetBkMode(hdc,BM_TRANSPARENT);
            SetTextColor(hdc, RGB2Pixel(hdc, 0xff, 0xff, 0xff));
            DrawText (hdc, res_str[RES_STR_GAME_1 + (game_sel / GAME_ICON_NUM_PERPAGE) * GAME_ICON_NUM_PERPAGE + i], -1, &msg_rcName, DT_TOP | DT_CENTER);
         }
+			if (line_sel == 0)
+			{
+				i = game_sel % GAME_ICON_NUM_PERPAGE;
+				int start_x= GAME_ICON_PINT_X + GAME_ICON_SPAC * i - (GAME_ICON_ZOOM_W / 2);
+				int start_y=GAME_ICON_PINT_Y - GAME_ICON_ZOOM_H;
+				int end_x=GAME_ICON_PINT_W + GAME_ICON_ZOOM_W;
+				int end_y=GAME_ICON_PINT_H + GAME_ICON_ZOOM_H;
+				//printf("x0=%d  ,y0=%d  ,x1=%d  ,y1=%d  \n",start_x,start_y,end_x,end_y);
+			//	RotateBitmap(hdc,&game_bmap[(game_sel / GAME_ICON_NUM_PERPAGE) * GAME_ICON_NUM_PERPAGE + i][0],start_x,start_y,-640);
+			//	PivotScaledBitmapFlip(hdc,&game_bmap[(game_sel / GAME_ICON_NUM_PERPAGE) * GAME_ICON_NUM_PERPAGE + i][0],
+				//		start_x+end_x/2,start_y+end_y/2,end_x,end_y, 10,1,1,TRUE,FALSE	);
+			   FillBoxWithBitmap(hdc,start_x ,start_y, end_x,end_y  , &game_bmap[(game_sel / GAME_ICON_NUM_PERPAGE) * GAME_ICON_NUM_PERPAGE + i][0]);
+			}
         page = (GAME_NUM + GAME_ICON_NUM_PERPAGE - 1) / GAME_ICON_NUM_PERPAGE;
 
         for (i = 0; i < page; i++) {
@@ -180,11 +190,13 @@ static LRESULT desktop_dialog_proc(HWND hWnd,UINT message,WPARAM wParam,LPARAM l
             else
                 Circle(hdc, x + i * DESKTOP_PAGE_DOT_SPAC, DESKTOP_PAGE_DOT_Y, DESKTOP_PAGE_DOT_DIA);
         }
+
+
         for (i = 0; i < MENU_NUM; i++) {
             if ((i == menu_sel) && (line_sel == 1))
-                FillBoxWithBitmap(hdc, msg_galrcMenu[i].x,
-                                  msg_galrcMenu[i].y, msg_galrcMenu[i].w,
-                                  msg_galrcMenu[i].h, &menu_bmap[i][1]);
+                FillBoxWithBitmap(hdc, msg_galrcMenu[i].x-27,
+                                  msg_galrcMenu[i].y-27, msg_galrcMenu[i].w+54,
+                                  msg_galrcMenu[i].h+54, &menu_bmap[i][1]);
             else
                 FillBoxWithBitmap(hdc, msg_galrcMenu[i].x + MENU_ICON_ZOOM_W / 2,
                                   msg_galrcMenu[i].y + MENU_ICON_ZOOM_H, msg_galrcMenu[i].w - MENU_ICON_ZOOM_W,
@@ -245,8 +257,9 @@ static LRESULT desktop_dialog_proc(HWND hWnd,UINT message,WPARAM wParam,LPARAM l
                 } else {
                     switch (menu_sel) {
                         case 0:
-                            creat_browser_dialog(hWnd, FILTER_FILE_GAME, res_str[RES_STR_TITLE_GAME]);
-                            break;
+                           // creat_browser_dialog(hWnd, FILTER_FILE_GAME, res_str[RES_STR_TITLE_GAME]);
+                        	creat_game_dialog(hWnd, FILTER_FILE_GAME, res_str[RES_STR_TITLE_GAME]);
+                        	break;
                         case 1:
                             creat_browser_dialog(hWnd, FILTER_FILE_MUSIC, res_str[RES_STR_TITLE_MUSIC]);
                             break;
@@ -261,7 +274,7 @@ static LRESULT desktop_dialog_proc(HWND hWnd,UINT message,WPARAM wParam,LPARAM l
                             break;
                         case 5: {
                             int oldstyle = get_themestyle();
-                         //   creat_setting_dialog(hWnd);
+                            create_setting_dialog(hWnd);
                             if (oldstyle != get_themestyle()) {
                                 unloadres();
                                 loadres();
@@ -294,7 +307,7 @@ static LRESULT desktop_dialog_proc(HWND hWnd,UINT message,WPARAM wParam,LPARAM l
 
     return DefaultDialogProc(hWnd, message, wParam, lParam);
 }
-void creat_desktop_dialog(HWND hWnd)
+void create_desktop_dialog(HWND hWnd)
 {
 	DLGTEMPLATE DesktopDlg = {WS_VISIBLE, WS_EX_NONE | WS_EX_AUTOSECONDARYDC,
 								0, 0,

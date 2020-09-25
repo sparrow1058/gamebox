@@ -506,7 +506,7 @@ static LRESULT browser_dialog_proc(HWND hWnd, UINT message, WPARAM wParam, LPARA
             msg_rcFilename.bottom = msg_rcFilename.top + BROWSER_LIST_STR_PINT_H;
             FillBoxWithBitmap(hdc, 20, msg_rcFilename.top - 7, BROWSER_LIST_PIC_PINT_W, BROWSER_LIST_PIC_PINT_H, &type_bmap[file_node_temp->type]);
             if (i == (cur_dir_node->file_sel % FILE_NUM_PERPAGE))
-                FillBoxWithBitmap(hdc, 0, msg_rcFilename.top - 9, LCD_W, BROWSER_LIST_SEL_PINT_H, &list_sel_bmap);
+                FillBoxWithBitmap(hdc, 0, msg_rcFilename.top - 9, LCD_W/3, BROWSER_LIST_SEL_PINT_H, &list_sel_bmap);
             DrawText(hdc, file_node_temp->name, -1, &msg_rcFilename, DT_TOP);
             if (file_node_temp->next_node)
                 file_node_temp = file_node_temp->next_node;

@@ -187,11 +187,11 @@ enum MEDIA_CMD {
 };
 
 #if 1
-#define BROWSER_PATH_ROOT     "C:/img/"
-#define BROWSER_PATH_PIC      "C:/img/pic"
-#define BROWSER_PATH_MUSIC    "C:/img//music"
-#define BROWSER_PATH_GAME     "C:/img//game"
-#define BROWSER_PATH_VIDEO    "C:/img//video"
+#define BROWSER_PATH_ROOT     "E:/github/gamebox-master/img"
+#define BROWSER_PATH_PIC      "E:/github/gamebox-master/img/pic"
+#define BROWSER_PATH_MUSIC    "E:/github/gamebox-master/img/music"
+#define BROWSER_PATH_GAME     "E:/github/gamebox-master/img/game"
+#define BROWSER_PATH_VIDEO    "E:/github/gamebox-master/img/video"
 #else
 #define BROWSER_PATH_ROOT     "/sdcard"
 #define BROWSER_PATH_PIC      "/sdcard/pic"
@@ -200,10 +200,12 @@ enum MEDIA_CMD {
 #define BROWSER_PATH_VIDEO    "/sdcard/video"
 #endif
 
-#define REC_FILE_CN    "C:/img/CN-UTF8.bin"
-#define REC_FILE_EN    "/usr/local/share/minigui/res/string/EN-UTF8.bin"
-#define REC_FILE_JA    "/usr/local/share/minigui/res/string/JP-UTF8.bin"
-#define REC_FILE_KO    "/usr/local/share/minigui/res/string/KO-UTF8.bin"
+#define RES_STRING_PATH		"E:/github/gamebox-master/img/res/string/"
+
+#define REC_FILE_CN   "E:/github/gamebox-master/img/res/string/CN-UTF8.bin"
+#define REC_FILE_EN   "E:/github/gamebox-master/img/res/string/EN-UTF8.bin"
+#define REC_FILE_JA    	"E:/github/gamebox-master/img/res/string/JP-UTF8.bin"
+#define REC_FILE_KO   "E:/github/gamebox-master/img/res/string/KO-UTF8.bin"
 
 #define VERSION_FILE   "/etc/version"
 #define DEFRETROARCH   "/data/retroarch/retroarch.cfg"
@@ -242,7 +244,8 @@ enum MEDIA_CMD {
 #include "ffplay_ipc.h"
 #include "lowpower_dialog.h"
 */
-
+#include "setting_dialog.h"
+#include "game_dialog.h"
 extern int loadstringres(void);
 extern int loadversion(char **model, char **version);
 extern int main_loadres(void);

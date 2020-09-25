@@ -39,8 +39,8 @@ struct parameter_data
 
 static struct parameter_data para_data;
 
-#define UI_IMAGE_PATH_0         "c:/img/res/images0/"
-#define UI_IMAGE_PATH_1         "c:/img/res/images1/"
+#define UI_IMAGE_PATH_0         "E:/github/gamebox-master/img/res/images0/"
+#define UI_IMAGE_PATH_1         "E:/github/gamebox-master/img/res/images1/"
 
 static void set_version(int val)
 {

@@ -1,9 +1,0 @@
-<?xml version="1.0"?> 
-<strings_resources>
-  <icon_para game_list_total="3"></icon_para>	
-  <icon_page1>
-    <icon0_para id="0" name="1.索尼克1" game_path="001 C 索尼克1.gba"></icon0_para>	
-    <icon1_para id="1" name="2.击倒王" game_path="001 U 击倒王.gba"></icon1_para>
-    <icon2_para id="1" name="2.索尼克2" game_path="002 C 索尼克2.gba"></icon2_para>
-  </icon_page1>   
-</strings_resources>
